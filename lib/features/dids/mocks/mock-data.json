@@ -1,0 +1,5602 @@
+[
+  {
+    "id": 1,
+    "value": "+55 (48) 75611-2248",
+    "monthlyPrice": "2,22",
+    "setupPrice": "3,46",
+    "currency": "U$"
+  },
+  {
+    "id": 2,
+    "value": "+55 (14) 38617-6928",
+    "monthlyPrice": "1,75",
+    "setupPrice": "9,52",
+    "currency": "U$"
+  },
+  {
+    "id": 3,
+    "value": "+55 (28) 99444-4835",
+    "monthlyPrice": "5,89",
+    "setupPrice": "4,51",
+    "currency": "U$"
+  },
+  {
+    "id": 4,
+    "value": "+55 (35) 88732-3713",
+    "monthlyPrice": "4,88",
+    "setupPrice": "7,73",
+    "currency": "R$"
+  },
+  {
+    "id": 5,
+    "value": "+55 (96) 06435-8351",
+    "monthlyPrice": "7,91",
+    "setupPrice": "9,77",
+    "currency": "R$"
+  },
+  {
+    "id": 6,
+    "value": "+55 (12) 20459-5751",
+    "monthlyPrice": "3,44",
+    "setupPrice": "1,01",
+    "currency": "U$"
+  },
+  {
+    "id": 7,
+    "value": "+55 (30) 63888-6261",
+    "monthlyPrice": "1,47",
+    "setupPrice": "7,90",
+    "currency": "R$"
+  },
+  {
+    "id": 8,
+    "value": "+55 (63) 14294-5839",
+    "monthlyPrice": "4,58",
+    "setupPrice": "7,95",
+    "currency": "U$"
+  },
+  {
+    "id": 9,
+    "value": "+55 (98) 53175-4559",
+    "monthlyPrice": "5,76",
+    "setupPrice": "3,50",
+    "currency": "U$"
+  },
+  {
+    "id": 10,
+    "value": "+55 (88) 06986-6901",
+    "monthlyPrice": "3,81",
+    "setupPrice": "9,98",
+    "currency": "R$"
+  },
+  {
+    "id": 11,
+    "value": "+55 (27) 80627-0876",
+    "monthlyPrice": "9,98",
+    "setupPrice": "9,98",
+    "currency": "U$"
+  },
+  {
+    "id": 12,
+    "value": "+55 (77) 52076-0204",
+    "monthlyPrice": "6,53",
+    "setupPrice": "1,07",
+    "currency": "U$"
+  },
+  {
+    "id": 13,
+    "value": "+55 (19) 66142-4000",
+    "monthlyPrice": "5,46",
+    "setupPrice": "8,56",
+    "currency": "U$"
+  },
+  {
+    "id": 14,
+    "value": "+55 (37) 13411-1883",
+    "monthlyPrice": "3,39",
+    "setupPrice": "4,81",
+    "currency": "R$"
+  },
+  {
+    "id": 15,
+    "value": "+55 (12) 85818-2086",
+    "monthlyPrice": "2,48",
+    "setupPrice": "8,20",
+    "currency": "U$"
+  },
+  {
+    "id": 16,
+    "value": "+55 (20) 04240-6742",
+    "monthlyPrice": "6,28",
+    "setupPrice": "6,33",
+    "currency": "U$"
+  },
+  {
+    "id": 17,
+    "value": "+55 (59) 38783-5687",
+    "monthlyPrice": "3,97",
+    "setupPrice": "6,13",
+    "currency": "R$"
+  },
+  {
+    "id": 18,
+    "value": "+55 (18) 45325-0916",
+    "monthlyPrice": "3,55",
+    "setupPrice": "5,88",
+    "currency": "U$"
+  },
+  {
+    "id": 19,
+    "value": "+55 (77) 51316-0390",
+    "monthlyPrice": "8,98",
+    "setupPrice": "3,61",
+    "currency": "R$"
+  },
+  {
+    "id": 20,
+    "value": "+55 (70) 31498-6488",
+    "monthlyPrice": "9,94",
+    "setupPrice": "8,71",
+    "currency": "R$"
+  },
+  {
+    "id": 21,
+    "value": "+55 (72) 85617-0027",
+    "monthlyPrice": "6,58",
+    "setupPrice": "9,31",
+    "currency": "R$"
+  },
+  {
+    "id": 22,
+    "value": "+55 (68) 03933-0081",
+    "monthlyPrice": "1,98",
+    "setupPrice": "8,37",
+    "currency": "R$"
+  },
+  {
+    "id": 23,
+    "value": "+55 (66) 31612-7546",
+    "monthlyPrice": "5,08",
+    "setupPrice": "6,06",
+    "currency": "U$"
+  },
+  {
+    "id": 24,
+    "value": "+55 (10) 17649-2081",
+    "monthlyPrice": "2,41",
+    "setupPrice": "7,53",
+    "currency": "R$"
+  },
+  {
+    "id": 25,
+    "value": "+55 (03) 56760-9224",
+    "monthlyPrice": "7,54",
+    "setupPrice": "9,68",
+    "currency": "R$"
+  },
+  {
+    "id": 26,
+    "value": "+55 (90) 27512-5424",
+    "monthlyPrice": "3,08",
+    "setupPrice": "9,93",
+    "currency": "U$"
+  },
+  {
+    "id": 27,
+    "value": "+55 (31) 25241-0761",
+    "monthlyPrice": "6,60",
+    "setupPrice": "2,28",
+    "currency": "R$"
+  },
+  {
+    "id": 28,
+    "value": "+55 (84) 52556-3971",
+    "monthlyPrice": "6,96",
+    "setupPrice": "9,98",
+    "currency": "R$"
+  },
+  {
+    "id": 29,
+    "value": "+55 (97) 82907-0063",
+    "monthlyPrice": "7,98",
+    "setupPrice": "6,42",
+    "currency": "U$"
+  },
+  {
+    "id": 30,
+    "value": "+55 (25) 03913-5991",
+    "monthlyPrice": "7,11",
+    "setupPrice": "6,57",
+    "currency": "R$"
+  },
+  {
+    "id": 31,
+    "value": "+55 (28) 93420-0071",
+    "monthlyPrice": "9,34",
+    "setupPrice": "2,44",
+    "currency": "R$"
+  },
+  {
+    "id": 32,
+    "value": "+55 (66) 35459-2142",
+    "monthlyPrice": "7,26",
+    "setupPrice": "5,77",
+    "currency": "R$"
+  },
+  {
+    "id": 33,
+    "value": "+55 (06) 50532-0795",
+    "monthlyPrice": "8,87",
+    "setupPrice": "8,18",
+    "currency": "R$"
+  },
+  {
+    "id": 34,
+    "value": "+55 (08) 29807-7257",
+    "monthlyPrice": "1,60",
+    "setupPrice": "2,83",
+    "currency": "U$"
+  },
+  {
+    "id": 35,
+    "value": "+55 (72) 67729-0854",
+    "monthlyPrice": "4,98",
+    "setupPrice": "3,31",
+    "currency": "U$"
+  },
+  {
+    "id": 36,
+    "value": "+55 (44) 40322-2403",
+    "monthlyPrice": "1,71",
+    "setupPrice": "7,34",
+    "currency": "U$"
+  },
+  {
+    "id": 37,
+    "value": "+55 (07) 19514-4240",
+    "monthlyPrice": "3,92",
+    "setupPrice": "4,76",
+    "currency": "R$"
+  },
+  {
+    "id": 38,
+    "value": "+55 (88) 39341-8793",
+    "monthlyPrice": "2,36",
+    "setupPrice": "5,98",
+    "currency": "R$"
+  },
+  {
+    "id": 39,
+    "value": "+55 (55) 18511-3332",
+    "monthlyPrice": "3,83",
+    "setupPrice": "4,70",
+    "currency": "U$"
+  },
+  {
+    "id": 40,
+    "value": "+55 (09) 58248-4490",
+    "monthlyPrice": "6,81",
+    "setupPrice": "7,01",
+    "currency": "R$"
+  },
+  {
+    "id": 41,
+    "value": "+55 (43) 94079-9414",
+    "monthlyPrice": "2,31",
+    "setupPrice": "7,70",
+    "currency": "R$"
+  },
+  {
+    "id": 42,
+    "value": "+55 (93) 65649-3311",
+    "monthlyPrice": "5,54",
+    "setupPrice": "7,30",
+    "currency": "R$"
+  },
+  {
+    "id": 43,
+    "value": "+55 (64) 56443-9072",
+    "monthlyPrice": "7,62",
+    "setupPrice": "4,91",
+    "currency": "R$"
+  },
+  {
+    "id": 44,
+    "value": "+55 (46) 44822-8786",
+    "monthlyPrice": "8,40",
+    "setupPrice": "5,34",
+    "currency": "R$"
+  },
+  {
+    "id": 45,
+    "value": "+55 (79) 03630-3685",
+    "monthlyPrice": "8,28",
+    "setupPrice": "3,92",
+    "currency": "U$"
+  },
+  {
+    "id": 46,
+    "value": "+55 (71) 11609-5604",
+    "monthlyPrice": "6,73",
+    "setupPrice": "1,79",
+    "currency": "U$"
+  },
+  {
+    "id": 47,
+    "value": "+55 (89) 94436-5539",
+    "monthlyPrice": "7,97",
+    "setupPrice": "3,28",
+    "currency": "R$"
+  },
+  {
+    "id": 48,
+    "value": "+55 (55) 17772-8726",
+    "monthlyPrice": "6,22",
+    "setupPrice": "5,39",
+    "currency": "U$"
+  },
+  {
+    "id": 49,
+    "value": "+55 (69) 48148-8111",
+    "monthlyPrice": "3,42",
+    "setupPrice": "1,08",
+    "currency": "U$"
+  },
+  {
+    "id": 50,
+    "value": "+55 (44) 92043-0041",
+    "monthlyPrice": "2,85",
+    "setupPrice": "3,76",
+    "currency": "R$"
+  },
+  {
+    "id": 51,
+    "value": "+55 (11) 70377-2434",
+    "monthlyPrice": "6,48",
+    "setupPrice": "1,82",
+    "currency": "U$"
+  },
+  {
+    "id": 52,
+    "value": "+55 (30) 57524-4709",
+    "monthlyPrice": "6,39",
+    "setupPrice": "8,42",
+    "currency": "U$"
+  },
+  {
+    "id": 53,
+    "value": "+55 (04) 07230-5806",
+    "monthlyPrice": "3,25",
+    "setupPrice": "5,06",
+    "currency": "U$"
+  },
+  {
+    "id": 54,
+    "value": "+55 (72) 84860-0325",
+    "monthlyPrice": "2,54",
+    "setupPrice": "1,39",
+    "currency": "R$"
+  },
+  {
+    "id": 55,
+    "value": "+55 (64) 76661-0536",
+    "monthlyPrice": "9,58",
+    "setupPrice": "1,99",
+    "currency": "R$"
+  },
+  {
+    "id": 56,
+    "value": "+55 (49) 94382-7201",
+    "monthlyPrice": "6,67",
+    "setupPrice": "5,14",
+    "currency": "R$"
+  },
+  {
+    "id": 57,
+    "value": "+55 (12) 16353-1582",
+    "monthlyPrice": "3,13",
+    "setupPrice": "3,64",
+    "currency": "R$"
+  },
+  {
+    "id": 58,
+    "value": "+55 (03) 54756-5251",
+    "monthlyPrice": "6,58",
+    "setupPrice": "5,54",
+    "currency": "U$"
+  },
+  {
+    "id": 59,
+    "value": "+55 (65) 17698-5544",
+    "monthlyPrice": "9,94",
+    "setupPrice": "7,37",
+    "currency": "R$"
+  },
+  {
+    "id": 60,
+    "value": "+55 (30) 45927-2323",
+    "monthlyPrice": "1,62",
+    "setupPrice": "7,05",
+    "currency": "R$"
+  },
+  {
+    "id": 61,
+    "value": "+55 (44) 62076-0444",
+    "monthlyPrice": "6,53",
+    "setupPrice": "6,93",
+    "currency": "R$"
+  },
+  {
+    "id": 62,
+    "value": "+55 (46) 97193-9679",
+    "monthlyPrice": "1,99",
+    "setupPrice": "1,92",
+    "currency": "R$"
+  },
+  {
+    "id": 63,
+    "value": "+55 (29) 96896-4136",
+    "monthlyPrice": "9,04",
+    "setupPrice": "9,33",
+    "currency": "U$"
+  },
+  {
+    "id": 64,
+    "value": "+55 (08) 41203-6911",
+    "monthlyPrice": "8,24",
+    "setupPrice": "6,04",
+    "currency": "U$"
+  },
+  {
+    "id": 65,
+    "value": "+55 (65) 82076-8443",
+    "monthlyPrice": "3,10",
+    "setupPrice": "7,46",
+    "currency": "U$"
+  },
+  {
+    "id": 66,
+    "value": "+55 (05) 97886-4003",
+    "monthlyPrice": "2,63",
+    "setupPrice": "8,75",
+    "currency": "R$"
+  },
+  {
+    "id": 67,
+    "value": "+55 (43) 44516-7248",
+    "monthlyPrice": "6,05",
+    "setupPrice": "8,47",
+    "currency": "R$"
+  },
+  {
+    "id": 68,
+    "value": "+55 (03) 79111-4080",
+    "monthlyPrice": "1,19",
+    "setupPrice": "6,78",
+    "currency": "R$"
+  },
+  {
+    "id": 69,
+    "value": "+55 (18) 03690-3259",
+    "monthlyPrice": "6,65",
+    "setupPrice": "5,69",
+    "currency": "U$"
+  },
+  {
+    "id": 70,
+    "value": "+55 (86) 73454-6819",
+    "monthlyPrice": "9,69",
+    "setupPrice": "9,40",
+    "currency": "U$"
+  },
+  {
+    "id": 71,
+    "value": "+55 (40) 66611-0130",
+    "monthlyPrice": "6,58",
+    "setupPrice": "7,96",
+    "currency": "U$"
+  },
+  {
+    "id": 72,
+    "value": "+55 (64) 48043-7934",
+    "monthlyPrice": "2,07",
+    "setupPrice": "4,56",
+    "currency": "R$"
+  },
+  {
+    "id": 73,
+    "value": "+55 (01) 56172-3777",
+    "monthlyPrice": "9,01",
+    "setupPrice": "6,78",
+    "currency": "R$"
+  },
+  {
+    "id": 74,
+    "value": "+55 (80) 31148-5905",
+    "monthlyPrice": "5,44",
+    "setupPrice": "4,04",
+    "currency": "U$"
+  },
+  {
+    "id": 75,
+    "value": "+55 (53) 72838-0780",
+    "monthlyPrice": "4,52",
+    "setupPrice": "1,26",
+    "currency": "U$"
+  },
+  {
+    "id": 76,
+    "value": "+55 (36) 80369-2814",
+    "monthlyPrice": "2,49",
+    "setupPrice": "3,92",
+    "currency": "U$"
+  },
+  {
+    "id": 77,
+    "value": "+55 (20) 53907-4485",
+    "monthlyPrice": "2,37",
+    "setupPrice": "9,41",
+    "currency": "U$"
+  },
+  {
+    "id": 78,
+    "value": "+55 (05) 78795-1685",
+    "monthlyPrice": "8,21",
+    "setupPrice": "1,70",
+    "currency": "R$"
+  },
+  {
+    "id": 79,
+    "value": "+55 (92) 77375-9181",
+    "monthlyPrice": "7,26",
+    "setupPrice": "7,84",
+    "currency": "R$"
+  },
+  {
+    "id": 80,
+    "value": "+55 (51) 48513-3782",
+    "monthlyPrice": "1,15",
+    "setupPrice": "9,22",
+    "currency": "R$"
+  },
+  {
+    "id": 81,
+    "value": "+55 (21) 87253-4068",
+    "monthlyPrice": "8,13",
+    "setupPrice": "2,02",
+    "currency": "U$"
+  },
+  {
+    "id": 82,
+    "value": "+55 (58) 16914-7443",
+    "monthlyPrice": "8,56",
+    "setupPrice": "6,20",
+    "currency": "R$"
+  },
+  {
+    "id": 83,
+    "value": "+55 (89) 38313-2895",
+    "monthlyPrice": "7,94",
+    "setupPrice": "3,38",
+    "currency": "R$"
+  },
+  {
+    "id": 84,
+    "value": "+55 (66) 69931-1303",
+    "monthlyPrice": "2,44",
+    "setupPrice": "4,19",
+    "currency": "U$"
+  },
+  {
+    "id": 85,
+    "value": "+55 (93) 61738-0456",
+    "monthlyPrice": "3,13",
+    "setupPrice": "1,22",
+    "currency": "U$"
+  },
+  {
+    "id": 86,
+    "value": "+55 (37) 33179-6438",
+    "monthlyPrice": "7,00",
+    "setupPrice": "7,08",
+    "currency": "U$"
+  },
+  {
+    "id": 87,
+    "value": "+55 (11) 98291-4969",
+    "monthlyPrice": "1,92",
+    "setupPrice": "8,22",
+    "currency": "U$"
+  },
+  {
+    "id": 88,
+    "value": "+55 (02) 70709-9010",
+    "monthlyPrice": "2,54",
+    "setupPrice": "2,36",
+    "currency": "R$"
+  },
+  {
+    "id": 89,
+    "value": "+55 (90) 65403-5211",
+    "monthlyPrice": "7,22",
+    "setupPrice": "3,00",
+    "currency": "U$"
+  },
+  {
+    "id": 90,
+    "value": "+55 (08) 04184-7981",
+    "monthlyPrice": "7,49",
+    "setupPrice": "5,03",
+    "currency": "R$"
+  },
+  {
+    "id": 91,
+    "value": "+55 (61) 42365-1418",
+    "monthlyPrice": "5,96",
+    "setupPrice": "5,78",
+    "currency": "U$"
+  },
+  {
+    "id": 92,
+    "value": "+55 (21) 50204-5440",
+    "monthlyPrice": "2,66",
+    "setupPrice": "1,76",
+    "currency": "R$"
+  },
+  {
+    "id": 93,
+    "value": "+55 (46) 36151-7002",
+    "monthlyPrice": "9,30",
+    "setupPrice": "9,49",
+    "currency": "U$"
+  },
+  {
+    "id": 94,
+    "value": "+55 (33) 39525-7962",
+    "monthlyPrice": "9,78",
+    "setupPrice": "7,61",
+    "currency": "U$"
+  },
+  {
+    "id": 95,
+    "value": "+55 (56) 87922-6078",
+    "monthlyPrice": "6,78",
+    "setupPrice": "3,83",
+    "currency": "U$"
+  },
+  {
+    "id": 96,
+    "value": "+55 (58) 93990-0315",
+    "monthlyPrice": "4,42",
+    "setupPrice": "8,03",
+    "currency": "R$"
+  },
+  {
+    "id": 97,
+    "value": "+55 (79) 00259-0491",
+    "monthlyPrice": "5,93",
+    "setupPrice": "9,36",
+    "currency": "R$"
+  },
+  {
+    "id": 98,
+    "value": "+55 (55) 39153-9732",
+    "monthlyPrice": "5,75",
+    "setupPrice": "2,82",
+    "currency": "R$"
+  },
+  {
+    "id": 99,
+    "value": "+55 (21) 80614-4117",
+    "monthlyPrice": "4,38",
+    "setupPrice": "5,31",
+    "currency": "U$"
+  },
+  {
+    "id": 100,
+    "value": "+55 (97) 78011-0666",
+    "monthlyPrice": "4,55",
+    "setupPrice": "8,38",
+    "currency": "R$"
+  },
+  {
+    "id": 101,
+    "value": "+55 (24) 55174-8843",
+    "monthlyPrice": "4,15",
+    "setupPrice": "5,42",
+    "currency": "U$"
+  },
+  {
+    "id": 102,
+    "value": "+55 (28) 87085-8521",
+    "monthlyPrice": "8,93",
+    "setupPrice": "4,32",
+    "currency": "U$"
+  },
+  {
+    "id": 103,
+    "value": "+55 (35) 67821-8651",
+    "monthlyPrice": "8,71",
+    "setupPrice": "6,99",
+    "currency": "U$"
+  },
+  {
+    "id": 104,
+    "value": "+55 (02) 82865-4097",
+    "monthlyPrice": "1,33",
+    "setupPrice": "4,07",
+    "currency": "U$"
+  },
+  {
+    "id": 105,
+    "value": "+55 (70) 65207-3341",
+    "monthlyPrice": "5,91",
+    "setupPrice": "4,04",
+    "currency": "U$"
+  },
+  {
+    "id": 106,
+    "value": "+55 (04) 18691-4590",
+    "monthlyPrice": "6,31",
+    "setupPrice": "8,85",
+    "currency": "U$"
+  },
+  {
+    "id": 107,
+    "value": "+55 (50) 37407-1203",
+    "monthlyPrice": "2,04",
+    "setupPrice": "4,55",
+    "currency": "R$"
+  },
+  {
+    "id": 108,
+    "value": "+55 (11) 69791-0354",
+    "monthlyPrice": "2,51",
+    "setupPrice": "3,87",
+    "currency": "U$"
+  },
+  {
+    "id": 109,
+    "value": "+55 (43) 26982-6538",
+    "monthlyPrice": "1,15",
+    "setupPrice": "5,36",
+    "currency": "U$"
+  },
+  {
+    "id": 110,
+    "value": "+55 (56) 30841-2969",
+    "monthlyPrice": "8,62",
+    "setupPrice": "2,26",
+    "currency": "U$"
+  },
+  {
+    "id": 111,
+    "value": "+55 (50) 99569-4296",
+    "monthlyPrice": "1,15",
+    "setupPrice": "9,48",
+    "currency": "R$"
+  },
+  {
+    "id": 112,
+    "value": "+55 (95) 76997-7534",
+    "monthlyPrice": "7,35",
+    "setupPrice": "2,53",
+    "currency": "U$"
+  },
+  {
+    "id": 113,
+    "value": "+55 (41) 37078-1622",
+    "monthlyPrice": "9,71",
+    "setupPrice": "2,40",
+    "currency": "R$"
+  },
+  {
+    "id": 114,
+    "value": "+55 (99) 17182-1129",
+    "monthlyPrice": "5,72",
+    "setupPrice": "7,57",
+    "currency": "R$"
+  },
+  {
+    "id": 115,
+    "value": "+55 (63) 47307-2130",
+    "monthlyPrice": "8,10",
+    "setupPrice": "6,88",
+    "currency": "U$"
+  },
+  {
+    "id": 116,
+    "value": "+55 (73) 53857-0106",
+    "monthlyPrice": "3,05",
+    "setupPrice": "1,16",
+    "currency": "U$"
+  },
+  {
+    "id": 117,
+    "value": "+55 (55) 88035-7278",
+    "monthlyPrice": "3,34",
+    "setupPrice": "4,12",
+    "currency": "R$"
+  },
+  {
+    "id": 118,
+    "value": "+55 (94) 99446-2655",
+    "monthlyPrice": "1,58",
+    "setupPrice": "7,33",
+    "currency": "R$"
+  },
+  {
+    "id": 119,
+    "value": "+55 (06) 39761-7784",
+    "monthlyPrice": "9,55",
+    "setupPrice": "4,43",
+    "currency": "U$"
+  },
+  {
+    "id": 120,
+    "value": "+55 (48) 08724-9652",
+    "monthlyPrice": "7,37",
+    "setupPrice": "8,11",
+    "currency": "R$"
+  },
+  {
+    "id": 121,
+    "value": "+55 (56) 60827-8167",
+    "monthlyPrice": "3,52",
+    "setupPrice": "9,03",
+    "currency": "R$"
+  },
+  {
+    "id": 122,
+    "value": "+55 (05) 76405-5927",
+    "monthlyPrice": "6,33",
+    "setupPrice": "9,29",
+    "currency": "U$"
+  },
+  {
+    "id": 123,
+    "value": "+55 (68) 75886-5540",
+    "monthlyPrice": "8,74",
+    "setupPrice": "1,24",
+    "currency": "U$"
+  },
+  {
+    "id": 124,
+    "value": "+55 (20) 95170-8996",
+    "monthlyPrice": "4,58",
+    "setupPrice": "8,76",
+    "currency": "R$"
+  },
+  {
+    "id": 125,
+    "value": "+55 (87) 75103-8552",
+    "monthlyPrice": "4,41",
+    "setupPrice": "3,16",
+    "currency": "U$"
+  },
+  {
+    "id": 126,
+    "value": "+55 (69) 99998-6766",
+    "monthlyPrice": "1,85",
+    "setupPrice": "7,16",
+    "currency": "R$"
+  },
+  {
+    "id": 127,
+    "value": "+55 (33) 25884-4659",
+    "monthlyPrice": "8,92",
+    "setupPrice": "7,59",
+    "currency": "R$"
+  },
+  {
+    "id": 128,
+    "value": "+55 (61) 98669-3957",
+    "monthlyPrice": "2,15",
+    "setupPrice": "3,61",
+    "currency": "R$"
+  },
+  {
+    "id": 129,
+    "value": "+55 (44) 49526-5644",
+    "monthlyPrice": "4,62",
+    "setupPrice": "1,91",
+    "currency": "R$"
+  },
+  {
+    "id": 130,
+    "value": "+55 (70) 14363-9698",
+    "monthlyPrice": "1,51",
+    "setupPrice": "3,47",
+    "currency": "R$"
+  },
+  {
+    "id": 131,
+    "value": "+55 (78) 45675-0012",
+    "monthlyPrice": "3,69",
+    "setupPrice": "6,44",
+    "currency": "R$"
+  },
+  {
+    "id": 132,
+    "value": "+55 (45) 19019-6606",
+    "monthlyPrice": "4,00",
+    "setupPrice": "8,47",
+    "currency": "R$"
+  },
+  {
+    "id": 133,
+    "value": "+55 (50) 33097-0703",
+    "monthlyPrice": "7,02",
+    "setupPrice": "7,95",
+    "currency": "U$"
+  },
+  {
+    "id": 134,
+    "value": "+55 (00) 92682-2144",
+    "monthlyPrice": "6,75",
+    "setupPrice": "4,35",
+    "currency": "R$"
+  },
+  {
+    "id": 135,
+    "value": "+55 (24) 99180-2095",
+    "monthlyPrice": "3,14",
+    "setupPrice": "4,95",
+    "currency": "U$"
+  },
+  {
+    "id": 136,
+    "value": "+55 (23) 57214-0383",
+    "monthlyPrice": "5,81",
+    "setupPrice": "5,34",
+    "currency": "R$"
+  },
+  {
+    "id": 137,
+    "value": "+55 (88) 66496-7753",
+    "monthlyPrice": "9,78",
+    "setupPrice": "5,34",
+    "currency": "R$"
+  },
+  {
+    "id": 138,
+    "value": "+55 (90) 70322-8363",
+    "monthlyPrice": "5,87",
+    "setupPrice": "9,67",
+    "currency": "U$"
+  },
+  {
+    "id": 139,
+    "value": "+55 (04) 40605-1091",
+    "monthlyPrice": "7,69",
+    "setupPrice": "8,40",
+    "currency": "U$"
+  },
+  {
+    "id": 140,
+    "value": "+55 (33) 95540-3452",
+    "monthlyPrice": "2,65",
+    "setupPrice": "8,65",
+    "currency": "U$"
+  },
+  {
+    "id": 141,
+    "value": "+55 (72) 88319-3891",
+    "monthlyPrice": "6,45",
+    "setupPrice": "3,79",
+    "currency": "R$"
+  },
+  {
+    "id": 142,
+    "value": "+55 (29) 28107-0400",
+    "monthlyPrice": "1,47",
+    "setupPrice": "4,62",
+    "currency": "R$"
+  },
+  {
+    "id": 143,
+    "value": "+55 (88) 57338-5597",
+    "monthlyPrice": "7,35",
+    "setupPrice": "7,46",
+    "currency": "R$"
+  },
+  {
+    "id": 144,
+    "value": "+55 (69) 36405-6874",
+    "monthlyPrice": "2,37",
+    "setupPrice": "2,58",
+    "currency": "U$"
+  },
+  {
+    "id": 145,
+    "value": "+55 (20) 40924-3326",
+    "monthlyPrice": "6,65",
+    "setupPrice": "1,70",
+    "currency": "R$"
+  },
+  {
+    "id": 146,
+    "value": "+55 (15) 79272-1331",
+    "monthlyPrice": "1,45",
+    "setupPrice": "2,46",
+    "currency": "U$"
+  },
+  {
+    "id": 147,
+    "value": "+55 (64) 82436-2304",
+    "monthlyPrice": "8,13",
+    "setupPrice": "1,56",
+    "currency": "R$"
+  },
+  {
+    "id": 148,
+    "value": "+55 (21) 32660-1983",
+    "monthlyPrice": "9,79",
+    "setupPrice": "8,83",
+    "currency": "U$"
+  },
+  {
+    "id": 149,
+    "value": "+55 (78) 69563-0909",
+    "monthlyPrice": "1,97",
+    "setupPrice": "9,27",
+    "currency": "R$"
+  },
+  {
+    "id": 150,
+    "value": "+55 (23) 57581-5777",
+    "monthlyPrice": "2,92",
+    "setupPrice": "1,93",
+    "currency": "R$"
+  },
+  {
+    "id": 151,
+    "value": "+55 (79) 55877-6065",
+    "monthlyPrice": "3,03",
+    "setupPrice": "9,28",
+    "currency": "R$"
+  },
+  {
+    "id": 152,
+    "value": "+55 (33) 21278-7897",
+    "monthlyPrice": "1,50",
+    "setupPrice": "2,46",
+    "currency": "R$"
+  },
+  {
+    "id": 153,
+    "value": "+55 (27) 31592-6364",
+    "monthlyPrice": "4,72",
+    "setupPrice": "4,76",
+    "currency": "U$"
+  },
+  {
+    "id": 154,
+    "value": "+55 (24) 50828-0402",
+    "monthlyPrice": "3,84",
+    "setupPrice": "8,29",
+    "currency": "R$"
+  },
+  {
+    "id": 155,
+    "value": "+55 (07) 62814-9636",
+    "monthlyPrice": "6,67",
+    "setupPrice": "6,37",
+    "currency": "U$"
+  },
+  {
+    "id": 156,
+    "value": "+55 (68) 03360-8069",
+    "monthlyPrice": "4,78",
+    "setupPrice": "8,60",
+    "currency": "R$"
+  },
+  {
+    "id": 157,
+    "value": "+55 (02) 13678-7984",
+    "monthlyPrice": "3,26",
+    "setupPrice": "9,31",
+    "currency": "U$"
+  },
+  {
+    "id": 158,
+    "value": "+55 (26) 70094-6468",
+    "monthlyPrice": "6,71",
+    "setupPrice": "6,60",
+    "currency": "R$"
+  },
+  {
+    "id": 159,
+    "value": "+55 (96) 85654-5990",
+    "monthlyPrice": "5,53",
+    "setupPrice": "3,64",
+    "currency": "R$"
+  },
+  {
+    "id": 160,
+    "value": "+55 (63) 35418-3855",
+    "monthlyPrice": "3,19",
+    "setupPrice": "7,88",
+    "currency": "U$"
+  },
+  {
+    "id": 161,
+    "value": "+55 (28) 98784-0872",
+    "monthlyPrice": "3,82",
+    "setupPrice": "1,07",
+    "currency": "R$"
+  },
+  {
+    "id": 162,
+    "value": "+55 (92) 17410-8682",
+    "monthlyPrice": "5,90",
+    "setupPrice": "5,99",
+    "currency": "U$"
+  },
+  {
+    "id": 163,
+    "value": "+55 (19) 15270-5143",
+    "monthlyPrice": "6,26",
+    "setupPrice": "5,99",
+    "currency": "U$"
+  },
+  {
+    "id": 164,
+    "value": "+55 (92) 83374-5514",
+    "monthlyPrice": "9,14",
+    "setupPrice": "7,27",
+    "currency": "R$"
+  },
+  {
+    "id": 165,
+    "value": "+55 (54) 36272-4730",
+    "monthlyPrice": "6,22",
+    "setupPrice": "5,78",
+    "currency": "R$"
+  },
+  {
+    "id": 166,
+    "value": "+55 (89) 49976-6906",
+    "monthlyPrice": "6,48",
+    "setupPrice": "8,08",
+    "currency": "R$"
+  },
+  {
+    "id": 167,
+    "value": "+55 (56) 65671-7110",
+    "monthlyPrice": "6,94",
+    "setupPrice": "1,35",
+    "currency": "R$"
+  },
+  {
+    "id": 168,
+    "value": "+55 (05) 36353-0215",
+    "monthlyPrice": "2,25",
+    "setupPrice": "5,20",
+    "currency": "U$"
+  },
+  {
+    "id": 169,
+    "value": "+55 (95) 72632-0514",
+    "monthlyPrice": "6,36",
+    "setupPrice": "7,69",
+    "currency": "U$"
+  },
+  {
+    "id": 170,
+    "value": "+55 (23) 50912-7349",
+    "monthlyPrice": "6,66",
+    "setupPrice": "8,40",
+    "currency": "R$"
+  },
+  {
+    "id": 171,
+    "value": "+55 (36) 66743-0042",
+    "monthlyPrice": "1,63",
+    "setupPrice": "5,72",
+    "currency": "U$"
+  },
+  {
+    "id": 172,
+    "value": "+55 (02) 24685-7137",
+    "monthlyPrice": "2,66",
+    "setupPrice": "9,43",
+    "currency": "R$"
+  },
+  {
+    "id": 173,
+    "value": "+55 (80) 53428-3118",
+    "monthlyPrice": "6,28",
+    "setupPrice": "8,56",
+    "currency": "U$"
+  },
+  {
+    "id": 174,
+    "value": "+55 (37) 94181-2508",
+    "monthlyPrice": "3,86",
+    "setupPrice": "3,30",
+    "currency": "U$"
+  },
+  {
+    "id": 175,
+    "value": "+55 (37) 73340-8364",
+    "monthlyPrice": "6,26",
+    "setupPrice": "2,92",
+    "currency": "U$"
+  },
+  {
+    "id": 176,
+    "value": "+55 (99) 13878-2324",
+    "monthlyPrice": "1,01",
+    "setupPrice": "2,92",
+    "currency": "R$"
+  },
+  {
+    "id": 177,
+    "value": "+55 (35) 67804-5901",
+    "monthlyPrice": "9,58",
+    "setupPrice": "6,50",
+    "currency": "R$"
+  },
+  {
+    "id": 178,
+    "value": "+55 (60) 74112-7686",
+    "monthlyPrice": "3,93",
+    "setupPrice": "6,43",
+    "currency": "U$"
+  },
+  {
+    "id": 179,
+    "value": "+55 (30) 56674-8187",
+    "monthlyPrice": "9,77",
+    "setupPrice": "7,43",
+    "currency": "R$"
+  },
+  {
+    "id": 180,
+    "value": "+55 (77) 90589-4644",
+    "monthlyPrice": "7,39",
+    "setupPrice": "7,18",
+    "currency": "U$"
+  },
+  {
+    "id": 181,
+    "value": "+55 (59) 00168-8510",
+    "monthlyPrice": "4,62",
+    "setupPrice": "7,32",
+    "currency": "U$"
+  },
+  {
+    "id": 182,
+    "value": "+55 (37) 80281-6268",
+    "monthlyPrice": "1,17",
+    "setupPrice": "8,86",
+    "currency": "U$"
+  },
+  {
+    "id": 183,
+    "value": "+55 (30) 74893-3759",
+    "monthlyPrice": "2,96",
+    "setupPrice": "5,86",
+    "currency": "R$"
+  },
+  {
+    "id": 184,
+    "value": "+55 (36) 96128-6846",
+    "monthlyPrice": "1,46",
+    "setupPrice": "2,14",
+    "currency": "R$"
+  },
+  {
+    "id": 185,
+    "value": "+55 (25) 85356-4361",
+    "monthlyPrice": "8,28",
+    "setupPrice": "5,21",
+    "currency": "R$"
+  },
+  {
+    "id": 186,
+    "value": "+55 (70) 58157-3272",
+    "monthlyPrice": "4,71",
+    "setupPrice": "9,53",
+    "currency": "U$"
+  },
+  {
+    "id": 187,
+    "value": "+55 (55) 38507-5533",
+    "monthlyPrice": "4,49",
+    "setupPrice": "3,53",
+    "currency": "R$"
+  },
+  {
+    "id": 188,
+    "value": "+55 (87) 61239-7421",
+    "monthlyPrice": "9,42",
+    "setupPrice": "9,87",
+    "currency": "R$"
+  },
+  {
+    "id": 189,
+    "value": "+55 (86) 80336-2437",
+    "monthlyPrice": "9,78",
+    "setupPrice": "5,91",
+    "currency": "U$"
+  },
+  {
+    "id": 190,
+    "value": "+55 (36) 45845-5506",
+    "monthlyPrice": "9,86",
+    "setupPrice": "9,62",
+    "currency": "R$"
+  },
+  {
+    "id": 191,
+    "value": "+55 (03) 10631-6979",
+    "monthlyPrice": "4,55",
+    "setupPrice": "2,47",
+    "currency": "R$"
+  },
+  {
+    "id": 192,
+    "value": "+55 (14) 71203-7145",
+    "monthlyPrice": "9,37",
+    "setupPrice": "3,71",
+    "currency": "R$"
+  },
+  {
+    "id": 193,
+    "value": "+55 (40) 48832-6822",
+    "monthlyPrice": "2,46",
+    "setupPrice": "2,21",
+    "currency": "R$"
+  },
+  {
+    "id": 194,
+    "value": "+55 (44) 90513-7104",
+    "monthlyPrice": "2,05",
+    "setupPrice": "9,64",
+    "currency": "R$"
+  },
+  {
+    "id": 195,
+    "value": "+55 (93) 93951-8309",
+    "monthlyPrice": "3,05",
+    "setupPrice": "3,79",
+    "currency": "R$"
+  },
+  {
+    "id": 196,
+    "value": "+55 (29) 77575-6451",
+    "monthlyPrice": "1,76",
+    "setupPrice": "7,27",
+    "currency": "U$"
+  },
+  {
+    "id": 197,
+    "value": "+55 (86) 93679-3880",
+    "monthlyPrice": "6,87",
+    "setupPrice": "3,38",
+    "currency": "U$"
+  },
+  {
+    "id": 198,
+    "value": "+55 (19) 00368-9674",
+    "monthlyPrice": "8,65",
+    "setupPrice": "9,84",
+    "currency": "R$"
+  },
+  {
+    "id": 199,
+    "value": "+55 (96) 96751-8050",
+    "monthlyPrice": "8,88",
+    "setupPrice": "4,15",
+    "currency": "U$"
+  },
+  {
+    "id": 200,
+    "value": "+55 (28) 24193-2943",
+    "monthlyPrice": "6,02",
+    "setupPrice": "5,47",
+    "currency": "R$"
+  },
+  {
+    "id": 201,
+    "value": "+55 (24) 55562-8134",
+    "monthlyPrice": "3,91",
+    "setupPrice": "2,83",
+    "currency": "U$"
+  },
+  {
+    "id": 202,
+    "value": "+55 (74) 92818-7229",
+    "monthlyPrice": "8,46",
+    "setupPrice": "6,84",
+    "currency": "R$"
+  },
+  {
+    "id": 203,
+    "value": "+55 (76) 29144-2088",
+    "monthlyPrice": "1,36",
+    "setupPrice": "9,99",
+    "currency": "R$"
+  },
+  {
+    "id": 204,
+    "value": "+55 (54) 69769-6323",
+    "monthlyPrice": "4,80",
+    "setupPrice": "5,82",
+    "currency": "U$"
+  },
+  {
+    "id": 205,
+    "value": "+55 (64) 33233-4313",
+    "monthlyPrice": "1,51",
+    "setupPrice": "9,74",
+    "currency": "U$"
+  },
+  {
+    "id": 206,
+    "value": "+55 (75) 15539-4626",
+    "monthlyPrice": "8,11",
+    "setupPrice": "1,15",
+    "currency": "U$"
+  },
+  {
+    "id": 207,
+    "value": "+55 (86) 92792-3238",
+    "monthlyPrice": "1,25",
+    "setupPrice": "3,15",
+    "currency": "R$"
+  },
+  {
+    "id": 208,
+    "value": "+55 (47) 63062-2877",
+    "monthlyPrice": "1,09",
+    "setupPrice": "4,22",
+    "currency": "U$"
+  },
+  {
+    "id": 209,
+    "value": "+55 (36) 23682-0325",
+    "monthlyPrice": "7,64",
+    "setupPrice": "2,74",
+    "currency": "U$"
+  },
+  {
+    "id": 210,
+    "value": "+55 (88) 77753-3657",
+    "monthlyPrice": "5,58",
+    "setupPrice": "7,80",
+    "currency": "R$"
+  },
+  {
+    "id": 211,
+    "value": "+55 (40) 00925-7612",
+    "monthlyPrice": "8,16",
+    "setupPrice": "3,91",
+    "currency": "R$"
+  },
+  {
+    "id": 212,
+    "value": "+55 (75) 88639-7859",
+    "monthlyPrice": "6,41",
+    "setupPrice": "7,11",
+    "currency": "R$"
+  },
+  {
+    "id": 213,
+    "value": "+55 (84) 27074-2149",
+    "monthlyPrice": "8,39",
+    "setupPrice": "9,45",
+    "currency": "U$"
+  },
+  {
+    "id": 214,
+    "value": "+55 (90) 56383-5320",
+    "monthlyPrice": "7,69",
+    "setupPrice": "5,48",
+    "currency": "U$"
+  },
+  {
+    "id": 215,
+    "value": "+55 (49) 15093-5338",
+    "monthlyPrice": "7,92",
+    "setupPrice": "9,31",
+    "currency": "R$"
+  },
+  {
+    "id": 216,
+    "value": "+55 (05) 87018-1752",
+    "monthlyPrice": "1,96",
+    "setupPrice": "2,32",
+    "currency": "R$"
+  },
+  {
+    "id": 217,
+    "value": "+55 (69) 12773-7863",
+    "monthlyPrice": "8,46",
+    "setupPrice": "5,28",
+    "currency": "R$"
+  },
+  {
+    "id": 218,
+    "value": "+55 (68) 66762-5357",
+    "monthlyPrice": "1,23",
+    "setupPrice": "8,54",
+    "currency": "U$"
+  },
+  {
+    "id": 219,
+    "value": "+55 (15) 76103-7116",
+    "monthlyPrice": "7,28",
+    "setupPrice": "6,09",
+    "currency": "U$"
+  },
+  {
+    "id": 220,
+    "value": "+55 (26) 60385-0083",
+    "monthlyPrice": "1,26",
+    "setupPrice": "5,75",
+    "currency": "U$"
+  },
+  {
+    "id": 221,
+    "value": "+55 (18) 24540-6490",
+    "monthlyPrice": "4,41",
+    "setupPrice": "3,11",
+    "currency": "R$"
+  },
+  {
+    "id": 222,
+    "value": "+55 (35) 93972-0622",
+    "monthlyPrice": "6,83",
+    "setupPrice": "2,85",
+    "currency": "U$"
+  },
+  {
+    "id": 223,
+    "value": "+55 (88) 34644-2306",
+    "monthlyPrice": "2,18",
+    "setupPrice": "7,88",
+    "currency": "R$"
+  },
+  {
+    "id": 224,
+    "value": "+55 (23) 55953-0686",
+    "monthlyPrice": "5,37",
+    "setupPrice": "9,45",
+    "currency": "U$"
+  },
+  {
+    "id": 225,
+    "value": "+55 (12) 93456-7971",
+    "monthlyPrice": "6,53",
+    "setupPrice": "7,81",
+    "currency": "U$"
+  },
+  {
+    "id": 226,
+    "value": "+55 (03) 25308-9066",
+    "monthlyPrice": "2,34",
+    "setupPrice": "2,05",
+    "currency": "U$"
+  },
+  {
+    "id": 227,
+    "value": "+55 (79) 17388-7682",
+    "monthlyPrice": "4,38",
+    "setupPrice": "9,86",
+    "currency": "U$"
+  },
+  {
+    "id": 228,
+    "value": "+55 (31) 01470-8725",
+    "monthlyPrice": "1,73",
+    "setupPrice": "9,52",
+    "currency": "R$"
+  },
+  {
+    "id": 229,
+    "value": "+55 (21) 12816-6438",
+    "monthlyPrice": "2,52",
+    "setupPrice": "7,26",
+    "currency": "R$"
+  },
+  {
+    "id": 230,
+    "value": "+55 (77) 59350-6432",
+    "monthlyPrice": "7,54",
+    "setupPrice": "3,63",
+    "currency": "U$"
+  },
+  {
+    "id": 231,
+    "value": "+55 (77) 63213-0047",
+    "monthlyPrice": "4,21",
+    "setupPrice": "2,31",
+    "currency": "R$"
+  },
+  {
+    "id": 232,
+    "value": "+55 (72) 56354-7937",
+    "monthlyPrice": "3,85",
+    "setupPrice": "7,52",
+    "currency": "R$"
+  },
+  {
+    "id": 233,
+    "value": "+55 (69) 23274-8897",
+    "monthlyPrice": "8,80",
+    "setupPrice": "9,79",
+    "currency": "U$"
+  },
+  {
+    "id": 234,
+    "value": "+55 (24) 35559-6482",
+    "monthlyPrice": "6,05",
+    "setupPrice": "5,38",
+    "currency": "U$"
+  },
+  {
+    "id": 235,
+    "value": "+55 (95) 20909-0406",
+    "monthlyPrice": "4,61",
+    "setupPrice": "3,46",
+    "currency": "U$"
+  },
+  {
+    "id": 236,
+    "value": "+55 (07) 25280-8466",
+    "monthlyPrice": "6,02",
+    "setupPrice": "6,27",
+    "currency": "U$"
+  },
+  {
+    "id": 237,
+    "value": "+55 (01) 61435-9989",
+    "monthlyPrice": "4,67",
+    "setupPrice": "5,90",
+    "currency": "R$"
+  },
+  {
+    "id": 238,
+    "value": "+55 (86) 58406-7106",
+    "monthlyPrice": "8,72",
+    "setupPrice": "3,54",
+    "currency": "R$"
+  },
+  {
+    "id": 239,
+    "value": "+55 (94) 14962-4761",
+    "monthlyPrice": "3,04",
+    "setupPrice": "6,72",
+    "currency": "U$"
+  },
+  {
+    "id": 240,
+    "value": "+55 (88) 58729-7393",
+    "monthlyPrice": "9,23",
+    "setupPrice": "4,09",
+    "currency": "R$"
+  },
+  {
+    "id": 241,
+    "value": "+55 (94) 73271-7393",
+    "monthlyPrice": "1,79",
+    "setupPrice": "3,21",
+    "currency": "R$"
+  },
+  {
+    "id": 242,
+    "value": "+55 (05) 76719-1189",
+    "monthlyPrice": "9,71",
+    "setupPrice": "7,16",
+    "currency": "U$"
+  },
+  {
+    "id": 243,
+    "value": "+55 (93) 29465-5247",
+    "monthlyPrice": "3,72",
+    "setupPrice": "3,93",
+    "currency": "R$"
+  },
+  {
+    "id": 244,
+    "value": "+55 (60) 65143-3427",
+    "monthlyPrice": "9,13",
+    "setupPrice": "4,29",
+    "currency": "U$"
+  },
+  {
+    "id": 245,
+    "value": "+55 (23) 48295-7631",
+    "monthlyPrice": "3,32",
+    "setupPrice": "2,24",
+    "currency": "U$"
+  },
+  {
+    "id": 246,
+    "value": "+55 (83) 38861-8842",
+    "monthlyPrice": "9,66",
+    "setupPrice": "5,55",
+    "currency": "U$"
+  },
+  {
+    "id": 247,
+    "value": "+55 (53) 26401-7228",
+    "monthlyPrice": "4,26",
+    "setupPrice": "2,34",
+    "currency": "R$"
+  },
+  {
+    "id": 248,
+    "value": "+55 (04) 80071-4530",
+    "monthlyPrice": "8,93",
+    "setupPrice": "9,98",
+    "currency": "R$"
+  },
+  {
+    "id": 249,
+    "value": "+55 (81) 63848-8766",
+    "monthlyPrice": "2,31",
+    "setupPrice": "7,88",
+    "currency": "U$"
+  },
+  {
+    "id": 250,
+    "value": "+55 (93) 04203-3973",
+    "monthlyPrice": "2,42",
+    "setupPrice": "3,97",
+    "currency": "R$"
+  },
+  {
+    "id": 251,
+    "value": "+55 (10) 83149-9008",
+    "monthlyPrice": "6,21",
+    "setupPrice": "9,73",
+    "currency": "U$"
+  },
+  {
+    "id": 252,
+    "value": "+55 (93) 76300-2462",
+    "monthlyPrice": "5,98",
+    "setupPrice": "7,07",
+    "currency": "U$"
+  },
+  {
+    "id": 253,
+    "value": "+55 (73) 89694-6336",
+    "monthlyPrice": "6,37",
+    "setupPrice": "2,08",
+    "currency": "R$"
+  },
+  {
+    "id": 254,
+    "value": "+55 (40) 17039-2998",
+    "monthlyPrice": "5,08",
+    "setupPrice": "6,26",
+    "currency": "R$"
+  },
+  {
+    "id": 255,
+    "value": "+55 (01) 37353-7469",
+    "monthlyPrice": "8,65",
+    "setupPrice": "8,94",
+    "currency": "R$"
+  },
+  {
+    "id": 256,
+    "value": "+55 (88) 56653-2201",
+    "monthlyPrice": "1,59",
+    "setupPrice": "4,92",
+    "currency": "U$"
+  },
+  {
+    "id": 257,
+    "value": "+55 (27) 53765-5460",
+    "monthlyPrice": "1,64",
+    "setupPrice": "5,54",
+    "currency": "U$"
+  },
+  {
+    "id": 258,
+    "value": "+55 (10) 90792-7707",
+    "monthlyPrice": "1,51",
+    "setupPrice": "3,17",
+    "currency": "U$"
+  },
+  {
+    "id": 259,
+    "value": "+55 (22) 63453-1452",
+    "monthlyPrice": "8,97",
+    "setupPrice": "9,58",
+    "currency": "R$"
+  },
+  {
+    "id": 260,
+    "value": "+55 (12) 30032-2158",
+    "monthlyPrice": "7,74",
+    "setupPrice": "7,16",
+    "currency": "U$"
+  },
+  {
+    "id": 261,
+    "value": "+55 (82) 46538-9865",
+    "monthlyPrice": "9,28",
+    "setupPrice": "1,61",
+    "currency": "R$"
+  },
+  {
+    "id": 262,
+    "value": "+55 (82) 04303-6862",
+    "monthlyPrice": "7,77",
+    "setupPrice": "6,95",
+    "currency": "R$"
+  },
+  {
+    "id": 263,
+    "value": "+55 (87) 60908-9109",
+    "monthlyPrice": "6,69",
+    "setupPrice": "5,17",
+    "currency": "R$"
+  },
+  {
+    "id": 264,
+    "value": "+55 (50) 49535-2058",
+    "monthlyPrice": "9,85",
+    "setupPrice": "2,22",
+    "currency": "U$"
+  },
+  {
+    "id": 265,
+    "value": "+55 (90) 44502-7726",
+    "monthlyPrice": "4,34",
+    "setupPrice": "4,33",
+    "currency": "R$"
+  },
+  {
+    "id": 266,
+    "value": "+55 (99) 32640-2756",
+    "monthlyPrice": "1,58",
+    "setupPrice": "2,81",
+    "currency": "R$"
+  },
+  {
+    "id": 267,
+    "value": "+55 (44) 85685-4078",
+    "monthlyPrice": "4,16",
+    "setupPrice": "1,38",
+    "currency": "U$"
+  },
+  {
+    "id": 268,
+    "value": "+55 (05) 62331-3206",
+    "monthlyPrice": "3,07",
+    "setupPrice": "4,95",
+    "currency": "R$"
+  },
+  {
+    "id": 269,
+    "value": "+55 (60) 98762-3903",
+    "monthlyPrice": "9,20",
+    "setupPrice": "7,26",
+    "currency": "U$"
+  },
+  {
+    "id": 270,
+    "value": "+55 (23) 77466-5828",
+    "monthlyPrice": "8,73",
+    "setupPrice": "7,07",
+    "currency": "U$"
+  },
+  {
+    "id": 271,
+    "value": "+55 (32) 84066-3092",
+    "monthlyPrice": "4,95",
+    "setupPrice": "1,81",
+    "currency": "R$"
+  },
+  {
+    "id": 272,
+    "value": "+55 (87) 93201-5501",
+    "monthlyPrice": "2,50",
+    "setupPrice": "6,52",
+    "currency": "R$"
+  },
+  {
+    "id": 273,
+    "value": "+55 (54) 55382-2765",
+    "monthlyPrice": "2,02",
+    "setupPrice": "7,51",
+    "currency": "R$"
+  },
+  {
+    "id": 274,
+    "value": "+55 (66) 62701-5193",
+    "monthlyPrice": "7,97",
+    "setupPrice": "5,12",
+    "currency": "R$"
+  },
+  {
+    "id": 275,
+    "value": "+55 (54) 35169-5112",
+    "monthlyPrice": "9,46",
+    "setupPrice": "5,17",
+    "currency": "U$"
+  },
+  {
+    "id": 276,
+    "value": "+55 (19) 42495-3310",
+    "monthlyPrice": "1,25",
+    "setupPrice": "1,56",
+    "currency": "U$"
+  },
+  {
+    "id": 277,
+    "value": "+55 (40) 17263-2540",
+    "monthlyPrice": "1,15",
+    "setupPrice": "7,92",
+    "currency": "U$"
+  },
+  {
+    "id": 278,
+    "value": "+55 (51) 11268-4440",
+    "monthlyPrice": "7,41",
+    "setupPrice": "2,09",
+    "currency": "R$"
+  },
+  {
+    "id": 279,
+    "value": "+55 (62) 59621-7170",
+    "monthlyPrice": "5,62",
+    "setupPrice": "9,57",
+    "currency": "U$"
+  },
+  {
+    "id": 280,
+    "value": "+55 (65) 96415-0019",
+    "monthlyPrice": "7,87",
+    "setupPrice": "2,50",
+    "currency": "R$"
+  },
+  {
+    "id": 281,
+    "value": "+55 (11) 17806-6580",
+    "monthlyPrice": "7,29",
+    "setupPrice": "7,74",
+    "currency": "R$"
+  },
+  {
+    "id": 282,
+    "value": "+55 (40) 30039-7619",
+    "monthlyPrice": "6,89",
+    "setupPrice": "4,94",
+    "currency": "U$"
+  },
+  {
+    "id": 283,
+    "value": "+55 (00) 00379-6904",
+    "monthlyPrice": "7,45",
+    "setupPrice": "9,29",
+    "currency": "R$"
+  },
+  {
+    "id": 284,
+    "value": "+55 (49) 49807-0647",
+    "monthlyPrice": "9,86",
+    "setupPrice": "8,45",
+    "currency": "R$"
+  },
+  {
+    "id": 285,
+    "value": "+55 (68) 80612-0219",
+    "monthlyPrice": "3,52",
+    "setupPrice": "9,02",
+    "currency": "U$"
+  },
+  {
+    "id": 286,
+    "value": "+55 (45) 50701-1161",
+    "monthlyPrice": "4,69",
+    "setupPrice": "6,75",
+    "currency": "U$"
+  },
+  {
+    "id": 287,
+    "value": "+55 (65) 68592-4671",
+    "monthlyPrice": "4,72",
+    "setupPrice": "3,09",
+    "currency": "U$"
+  },
+  {
+    "id": 288,
+    "value": "+55 (62) 68898-5069",
+    "monthlyPrice": "5,95",
+    "setupPrice": "7,70",
+    "currency": "R$"
+  },
+  {
+    "id": 289,
+    "value": "+55 (79) 41913-9507",
+    "monthlyPrice": "3,79",
+    "setupPrice": "4,48",
+    "currency": "R$"
+  },
+  {
+    "id": 290,
+    "value": "+55 (74) 65165-1874",
+    "monthlyPrice": "2,94",
+    "setupPrice": "3,64",
+    "currency": "U$"
+  },
+  {
+    "id": 291,
+    "value": "+55 (19) 92719-8679",
+    "monthlyPrice": "1,80",
+    "setupPrice": "6,38",
+    "currency": "R$"
+  },
+  {
+    "id": 292,
+    "value": "+55 (69) 35529-0617",
+    "monthlyPrice": "6,47",
+    "setupPrice": "7,87",
+    "currency": "U$"
+  },
+  {
+    "id": 293,
+    "value": "+55 (84) 20241-5303",
+    "monthlyPrice": "7,62",
+    "setupPrice": "8,81",
+    "currency": "U$"
+  },
+  {
+    "id": 294,
+    "value": "+55 (33) 07176-1055",
+    "monthlyPrice": "9,98",
+    "setupPrice": "7,19",
+    "currency": "R$"
+  },
+  {
+    "id": 295,
+    "value": "+55 (65) 31362-8234",
+    "monthlyPrice": "5,01",
+    "setupPrice": "1,02",
+    "currency": "R$"
+  },
+  {
+    "id": 296,
+    "value": "+55 (26) 78681-7880",
+    "monthlyPrice": "6,27",
+    "setupPrice": "4,34",
+    "currency": "U$"
+  },
+  {
+    "id": 297,
+    "value": "+55 (63) 24232-7613",
+    "monthlyPrice": "2,46",
+    "setupPrice": "7,01",
+    "currency": "U$"
+  },
+  {
+    "id": 298,
+    "value": "+55 (62) 99024-1815",
+    "monthlyPrice": "8,68",
+    "setupPrice": "9,72",
+    "currency": "U$"
+  },
+  {
+    "id": 299,
+    "value": "+55 (49) 25851-5462",
+    "monthlyPrice": "7,45",
+    "setupPrice": "8,46",
+    "currency": "U$"
+  },
+  {
+    "id": 300,
+    "value": "+55 (54) 35148-2226",
+    "monthlyPrice": "2,78",
+    "setupPrice": "1,98",
+    "currency": "U$"
+  },
+  {
+    "id": 301,
+    "value": "+55 (89) 52715-6853",
+    "monthlyPrice": "3,19",
+    "setupPrice": "9,03",
+    "currency": "R$"
+  },
+  {
+    "id": 302,
+    "value": "+55 (58) 29119-6947",
+    "monthlyPrice": "1,87",
+    "setupPrice": "6,79",
+    "currency": "R$"
+  },
+  {
+    "id": 303,
+    "value": "+55 (26) 39913-5994",
+    "monthlyPrice": "2,26",
+    "setupPrice": "3,32",
+    "currency": "U$"
+  },
+  {
+    "id": 304,
+    "value": "+55 (56) 38096-4619",
+    "monthlyPrice": "8,47",
+    "setupPrice": "7,34",
+    "currency": "R$"
+  },
+  {
+    "id": 305,
+    "value": "+55 (70) 40008-8183",
+    "monthlyPrice": "4,43",
+    "setupPrice": "5,41",
+    "currency": "R$"
+  },
+  {
+    "id": 306,
+    "value": "+55 (27) 68897-0994",
+    "monthlyPrice": "3,27",
+    "setupPrice": "1,52",
+    "currency": "R$"
+  },
+  {
+    "id": 307,
+    "value": "+55 (99) 92172-1728",
+    "monthlyPrice": "6,30",
+    "setupPrice": "4,70",
+    "currency": "U$"
+  },
+  {
+    "id": 308,
+    "value": "+55 (09) 88033-0728",
+    "monthlyPrice": "5,09",
+    "setupPrice": "5,76",
+    "currency": "R$"
+  },
+  {
+    "id": 309,
+    "value": "+55 (33) 94932-5876",
+    "monthlyPrice": "4,44",
+    "setupPrice": "1,54",
+    "currency": "R$"
+  },
+  {
+    "id": 310,
+    "value": "+55 (28) 57210-9988",
+    "monthlyPrice": "5,50",
+    "setupPrice": "7,27",
+    "currency": "U$"
+  },
+  {
+    "id": 311,
+    "value": "+55 (68) 54680-2550",
+    "monthlyPrice": "3,18",
+    "setupPrice": "7,79",
+    "currency": "R$"
+  },
+  {
+    "id": 312,
+    "value": "+55 (41) 60202-5352",
+    "monthlyPrice": "6,90",
+    "setupPrice": "5,19",
+    "currency": "R$"
+  },
+  {
+    "id": 313,
+    "value": "+55 (38) 12756-2592",
+    "monthlyPrice": "7,07",
+    "setupPrice": "8,24",
+    "currency": "R$"
+  },
+  {
+    "id": 314,
+    "value": "+55 (56) 32252-6847",
+    "monthlyPrice": "2,20",
+    "setupPrice": "3,98",
+    "currency": "R$"
+  },
+  {
+    "id": 315,
+    "value": "+55 (46) 21834-7400",
+    "monthlyPrice": "4,41",
+    "setupPrice": "7,28",
+    "currency": "U$"
+  },
+  {
+    "id": 316,
+    "value": "+55 (30) 61043-5469",
+    "monthlyPrice": "8,98",
+    "setupPrice": "2,74",
+    "currency": "U$"
+  },
+  {
+    "id": 317,
+    "value": "+55 (61) 83493-6527",
+    "monthlyPrice": "2,26",
+    "setupPrice": "5,09",
+    "currency": "R$"
+  },
+  {
+    "id": 318,
+    "value": "+55 (55) 03874-1290",
+    "monthlyPrice": "3,38",
+    "setupPrice": "7,15",
+    "currency": "R$"
+  },
+  {
+    "id": 319,
+    "value": "+55 (22) 19473-9998",
+    "monthlyPrice": "7,63",
+    "setupPrice": "7,89",
+    "currency": "R$"
+  },
+  {
+    "id": 320,
+    "value": "+55 (23) 03715-0553",
+    "monthlyPrice": "2,37",
+    "setupPrice": "9,03",
+    "currency": "R$"
+  },
+  {
+    "id": 321,
+    "value": "+55 (39) 83945-5937",
+    "monthlyPrice": "8,55",
+    "setupPrice": "9,04",
+    "currency": "U$"
+  },
+  {
+    "id": 322,
+    "value": "+55 (13) 97482-3952",
+    "monthlyPrice": "1,30",
+    "setupPrice": "4,27",
+    "currency": "R$"
+  },
+  {
+    "id": 323,
+    "value": "+55 (35) 76698-8736",
+    "monthlyPrice": "6,58",
+    "setupPrice": "3,51",
+    "currency": "U$"
+  },
+  {
+    "id": 324,
+    "value": "+55 (67) 56678-2964",
+    "monthlyPrice": "9,28",
+    "setupPrice": "3,25",
+    "currency": "R$"
+  },
+  {
+    "id": 325,
+    "value": "+55 (77) 30245-0930",
+    "monthlyPrice": "7,52",
+    "setupPrice": "4,70",
+    "currency": "R$"
+  },
+  {
+    "id": 326,
+    "value": "+55 (13) 94109-9297",
+    "monthlyPrice": "2,35",
+    "setupPrice": "6,69",
+    "currency": "U$"
+  },
+  {
+    "id": 327,
+    "value": "+55 (47) 88986-7583",
+    "monthlyPrice": "2,86",
+    "setupPrice": "8,78",
+    "currency": "U$"
+  },
+  {
+    "id": 328,
+    "value": "+55 (17) 44632-8270",
+    "monthlyPrice": "7,61",
+    "setupPrice": "8,59",
+    "currency": "R$"
+  },
+  {
+    "id": 329,
+    "value": "+55 (99) 72570-0406",
+    "monthlyPrice": "9,65",
+    "setupPrice": "6,45",
+    "currency": "R$"
+  },
+  {
+    "id": 330,
+    "value": "+55 (99) 51964-0558",
+    "monthlyPrice": "9,81",
+    "setupPrice": "4,77",
+    "currency": "R$"
+  },
+  {
+    "id": 331,
+    "value": "+55 (68) 87270-0177",
+    "monthlyPrice": "7,77",
+    "setupPrice": "2,44",
+    "currency": "U$"
+  },
+  {
+    "id": 332,
+    "value": "+55 (21) 23834-8818",
+    "monthlyPrice": "2,26",
+    "setupPrice": "3,70",
+    "currency": "R$"
+  },
+  {
+    "id": 333,
+    "value": "+55 (21) 82776-6407",
+    "monthlyPrice": "4,46",
+    "setupPrice": "1,61",
+    "currency": "U$"
+  },
+  {
+    "id": 334,
+    "value": "+55 (53) 47405-0923",
+    "monthlyPrice": "5,75",
+    "setupPrice": "8,22",
+    "currency": "R$"
+  },
+  {
+    "id": 335,
+    "value": "+55 (71) 17334-7841",
+    "monthlyPrice": "1,69",
+    "setupPrice": "7,20",
+    "currency": "U$"
+  },
+  {
+    "id": 336,
+    "value": "+55 (95) 11318-7742",
+    "monthlyPrice": "8,12",
+    "setupPrice": "1,99",
+    "currency": "R$"
+  },
+  {
+    "id": 337,
+    "value": "+55 (03) 84587-4644",
+    "monthlyPrice": "8,18",
+    "setupPrice": "5,42",
+    "currency": "U$"
+  },
+  {
+    "id": 338,
+    "value": "+55 (69) 20566-2066",
+    "monthlyPrice": "7,42",
+    "setupPrice": "3,54",
+    "currency": "U$"
+  },
+  {
+    "id": 339,
+    "value": "+55 (06) 64044-2719",
+    "monthlyPrice": "9,23",
+    "setupPrice": "7,86",
+    "currency": "R$"
+  },
+  {
+    "id": 340,
+    "value": "+55 (43) 17445-3295",
+    "monthlyPrice": "2,41",
+    "setupPrice": "1,49",
+    "currency": "R$"
+  },
+  {
+    "id": 341,
+    "value": "+55 (07) 04461-1932",
+    "monthlyPrice": "7,09",
+    "setupPrice": "8,86",
+    "currency": "R$"
+  },
+  {
+    "id": 342,
+    "value": "+55 (32) 47004-5967",
+    "monthlyPrice": "5,74",
+    "setupPrice": "2,17",
+    "currency": "U$"
+  },
+  {
+    "id": 343,
+    "value": "+55 (84) 92372-0740",
+    "monthlyPrice": "6,07",
+    "setupPrice": "1,47",
+    "currency": "R$"
+  },
+  {
+    "id": 344,
+    "value": "+55 (23) 95259-1537",
+    "monthlyPrice": "9,67",
+    "setupPrice": "7,96",
+    "currency": "U$"
+  },
+  {
+    "id": 345,
+    "value": "+55 (49) 78020-7989",
+    "monthlyPrice": "2,46",
+    "setupPrice": "1,42",
+    "currency": "U$"
+  },
+  {
+    "id": 346,
+    "value": "+55 (10) 93299-8011",
+    "monthlyPrice": "6,61",
+    "setupPrice": "9,74",
+    "currency": "U$"
+  },
+  {
+    "id": 347,
+    "value": "+55 (93) 09663-5665",
+    "monthlyPrice": "1,59",
+    "setupPrice": "1,20",
+    "currency": "R$"
+  },
+  {
+    "id": 348,
+    "value": "+55 (61) 17311-5755",
+    "monthlyPrice": "3,72",
+    "setupPrice": "9,44",
+    "currency": "R$"
+  },
+  {
+    "id": 349,
+    "value": "+55 (44) 29093-5164",
+    "monthlyPrice": "3,55",
+    "setupPrice": "5,73",
+    "currency": "R$"
+  },
+  {
+    "id": 350,
+    "value": "+55 (14) 10034-4063",
+    "monthlyPrice": "4,18",
+    "setupPrice": "6,31",
+    "currency": "R$"
+  },
+  {
+    "id": 351,
+    "value": "+55 (30) 68162-1846",
+    "monthlyPrice": "5,09",
+    "setupPrice": "3,31",
+    "currency": "R$"
+  },
+  {
+    "id": 352,
+    "value": "+55 (66) 48307-1003",
+    "monthlyPrice": "1,36",
+    "setupPrice": "8,54",
+    "currency": "U$"
+  },
+  {
+    "id": 353,
+    "value": "+55 (93) 08466-4651",
+    "monthlyPrice": "4,40",
+    "setupPrice": "8,73",
+    "currency": "U$"
+  },
+  {
+    "id": 354,
+    "value": "+55 (93) 54071-2936",
+    "monthlyPrice": "8,55",
+    "setupPrice": "8,93",
+    "currency": "U$"
+  },
+  {
+    "id": 355,
+    "value": "+55 (96) 50265-1576",
+    "monthlyPrice": "5,57",
+    "setupPrice": "4,04",
+    "currency": "R$"
+  },
+  {
+    "id": 356,
+    "value": "+55 (14) 09915-5758",
+    "monthlyPrice": "2,06",
+    "setupPrice": "7,56",
+    "currency": "R$"
+  },
+  {
+    "id": 357,
+    "value": "+55 (53) 06513-4453",
+    "monthlyPrice": "5,25",
+    "setupPrice": "9,35",
+    "currency": "R$"
+  },
+  {
+    "id": 358,
+    "value": "+55 (44) 73112-9285",
+    "monthlyPrice": "6,80",
+    "setupPrice": "1,61",
+    "currency": "R$"
+  },
+  {
+    "id": 359,
+    "value": "+55 (93) 62482-7898",
+    "monthlyPrice": "5,07",
+    "setupPrice": "8,24",
+    "currency": "R$"
+  },
+  {
+    "id": 360,
+    "value": "+55 (16) 82303-1699",
+    "monthlyPrice": "1,35",
+    "setupPrice": "3,09",
+    "currency": "U$"
+  },
+  {
+    "id": 361,
+    "value": "+55 (31) 53818-0811",
+    "monthlyPrice": "9,98",
+    "setupPrice": "3,31",
+    "currency": "U$"
+  },
+  {
+    "id": 362,
+    "value": "+55 (99) 15964-3166",
+    "monthlyPrice": "3,43",
+    "setupPrice": "7,82",
+    "currency": "U$"
+  },
+  {
+    "id": 363,
+    "value": "+55 (11) 55731-3040",
+    "monthlyPrice": "7,54",
+    "setupPrice": "6,48",
+    "currency": "R$"
+  },
+  {
+    "id": 364,
+    "value": "+55 (08) 97407-7160",
+    "monthlyPrice": "2,94",
+    "setupPrice": "7,87",
+    "currency": "U$"
+  },
+  {
+    "id": 365,
+    "value": "+55 (70) 15784-9396",
+    "monthlyPrice": "8,03",
+    "setupPrice": "2,56",
+    "currency": "U$"
+  },
+  {
+    "id": 366,
+    "value": "+55 (90) 44860-7278",
+    "monthlyPrice": "6,41",
+    "setupPrice": "5,48",
+    "currency": "U$"
+  },
+  {
+    "id": 367,
+    "value": "+55 (23) 76959-6565",
+    "monthlyPrice": "3,01",
+    "setupPrice": "1,74",
+    "currency": "R$"
+  },
+  {
+    "id": 368,
+    "value": "+55 (05) 05182-7365",
+    "monthlyPrice": "5,27",
+    "setupPrice": "6,33",
+    "currency": "R$"
+  },
+  {
+    "id": 369,
+    "value": "+55 (27) 73948-0503",
+    "monthlyPrice": "2,77",
+    "setupPrice": "3,90",
+    "currency": "U$"
+  },
+  {
+    "id": 370,
+    "value": "+55 (89) 78019-7047",
+    "monthlyPrice": "9,76",
+    "setupPrice": "6,93",
+    "currency": "R$"
+  },
+  {
+    "id": 371,
+    "value": "+55 (94) 63837-7539",
+    "monthlyPrice": "5,13",
+    "setupPrice": "7,61",
+    "currency": "R$"
+  },
+  {
+    "id": 372,
+    "value": "+55 (85) 46826-9997",
+    "monthlyPrice": "8,60",
+    "setupPrice": "2,73",
+    "currency": "U$"
+  },
+  {
+    "id": 373,
+    "value": "+55 (89) 20067-9437",
+    "monthlyPrice": "7,27",
+    "setupPrice": "5,35",
+    "currency": "U$"
+  },
+  {
+    "id": 374,
+    "value": "+55 (34) 57557-3396",
+    "monthlyPrice": "7,92",
+    "setupPrice": "2,66",
+    "currency": "R$"
+  },
+  {
+    "id": 375,
+    "value": "+55 (19) 40010-9928",
+    "monthlyPrice": "5,49",
+    "setupPrice": "6,49",
+    "currency": "R$"
+  },
+  {
+    "id": 376,
+    "value": "+55 (46) 61951-8805",
+    "monthlyPrice": "7,78",
+    "setupPrice": "2,36",
+    "currency": "U$"
+  },
+  {
+    "id": 377,
+    "value": "+55 (10) 68308-9595",
+    "monthlyPrice": "6,30",
+    "setupPrice": "1,72",
+    "currency": "R$"
+  },
+  {
+    "id": 378,
+    "value": "+55 (69) 06673-7671",
+    "monthlyPrice": "5,99",
+    "setupPrice": "9,29",
+    "currency": "R$"
+  },
+  {
+    "id": 379,
+    "value": "+55 (73) 93950-3228",
+    "monthlyPrice": "2,92",
+    "setupPrice": "3,04",
+    "currency": "U$"
+  },
+  {
+    "id": 380,
+    "value": "+55 (20) 80209-3109",
+    "monthlyPrice": "8,45",
+    "setupPrice": "4,82",
+    "currency": "R$"
+  },
+  {
+    "id": 381,
+    "value": "+55 (39) 86130-4333",
+    "monthlyPrice": "7,06",
+    "setupPrice": "7,85",
+    "currency": "U$"
+  },
+  {
+    "id": 382,
+    "value": "+55 (55) 77493-0829",
+    "monthlyPrice": "7,30",
+    "setupPrice": "1,33",
+    "currency": "R$"
+  },
+  {
+    "id": 383,
+    "value": "+55 (71) 14080-4557",
+    "monthlyPrice": "7,05",
+    "setupPrice": "4,57",
+    "currency": "R$"
+  },
+  {
+    "id": 384,
+    "value": "+55 (42) 85179-8715",
+    "monthlyPrice": "6,71",
+    "setupPrice": "4,64",
+    "currency": "U$"
+  },
+  {
+    "id": 385,
+    "value": "+55 (48) 58373-5789",
+    "monthlyPrice": "3,82",
+    "setupPrice": "1,49",
+    "currency": "R$"
+  },
+  {
+    "id": 386,
+    "value": "+55 (08) 27023-9667",
+    "monthlyPrice": "8,56",
+    "setupPrice": "2,38",
+    "currency": "U$"
+  },
+  {
+    "id": 387,
+    "value": "+55 (42) 93604-5923",
+    "monthlyPrice": "9,16",
+    "setupPrice": "8,81",
+    "currency": "U$"
+  },
+  {
+    "id": 388,
+    "value": "+55 (75) 46897-0326",
+    "monthlyPrice": "6,84",
+    "setupPrice": "1,54",
+    "currency": "R$"
+  },
+  {
+    "id": 389,
+    "value": "+55 (80) 42475-6665",
+    "monthlyPrice": "1,76",
+    "setupPrice": "7,38",
+    "currency": "U$"
+  },
+  {
+    "id": 390,
+    "value": "+55 (02) 29605-2442",
+    "monthlyPrice": "2,70",
+    "setupPrice": "2,02",
+    "currency": "U$"
+  },
+  {
+    "id": 391,
+    "value": "+55 (15) 35075-1914",
+    "monthlyPrice": "4,91",
+    "setupPrice": "9,86",
+    "currency": "U$"
+  },
+  {
+    "id": 392,
+    "value": "+55 (77) 51245-4411",
+    "monthlyPrice": "7,25",
+    "setupPrice": "5,82",
+    "currency": "R$"
+  },
+  {
+    "id": 393,
+    "value": "+55 (00) 99075-0449",
+    "monthlyPrice": "6,61",
+    "setupPrice": "8,69",
+    "currency": "R$"
+  },
+  {
+    "id": 394,
+    "value": "+55 (44) 10393-5258",
+    "monthlyPrice": "1,96",
+    "setupPrice": "1,80",
+    "currency": "R$"
+  },
+  {
+    "id": 395,
+    "value": "+55 (07) 78650-3944",
+    "monthlyPrice": "5,72",
+    "setupPrice": "5,66",
+    "currency": "R$"
+  },
+  {
+    "id": 396,
+    "value": "+55 (72) 47224-3670",
+    "monthlyPrice": "3,34",
+    "setupPrice": "3,94",
+    "currency": "R$"
+  },
+  {
+    "id": 397,
+    "value": "+55 (20) 58425-0324",
+    "monthlyPrice": "6,24",
+    "setupPrice": "6,90",
+    "currency": "U$"
+  },
+  {
+    "id": 398,
+    "value": "+55 (86) 21978-3695",
+    "monthlyPrice": "7,94",
+    "setupPrice": "9,23",
+    "currency": "U$"
+  },
+  {
+    "id": 399,
+    "value": "+55 (58) 24039-4251",
+    "monthlyPrice": "7,32",
+    "setupPrice": "6,33",
+    "currency": "U$"
+  },
+  {
+    "id": 400,
+    "value": "+55 (68) 72064-8676",
+    "monthlyPrice": "7,39",
+    "setupPrice": "2,97",
+    "currency": "R$"
+  },
+  {
+    "id": 401,
+    "value": "+55 (20) 95081-6019",
+    "monthlyPrice": "5,69",
+    "setupPrice": "7,96",
+    "currency": "U$"
+  },
+  {
+    "id": 402,
+    "value": "+55 (97) 28039-3604",
+    "monthlyPrice": "6,09",
+    "setupPrice": "9,68",
+    "currency": "R$"
+  },
+  {
+    "id": 403,
+    "value": "+55 (52) 99590-8118",
+    "monthlyPrice": "7,42",
+    "setupPrice": "5,53",
+    "currency": "U$"
+  },
+  {
+    "id": 404,
+    "value": "+55 (21) 50931-3215",
+    "monthlyPrice": "9,64",
+    "setupPrice": "1,62",
+    "currency": "U$"
+  },
+  {
+    "id": 405,
+    "value": "+55 (82) 48751-0023",
+    "monthlyPrice": "7,55",
+    "setupPrice": "1,84",
+    "currency": "U$"
+  },
+  {
+    "id": 406,
+    "value": "+55 (94) 67468-3894",
+    "monthlyPrice": "2,34",
+    "setupPrice": "8,53",
+    "currency": "R$"
+  },
+  {
+    "id": 407,
+    "value": "+55 (37) 87142-2526",
+    "monthlyPrice": "9,30",
+    "setupPrice": "7,53",
+    "currency": "U$"
+  },
+  {
+    "id": 408,
+    "value": "+55 (92) 88576-6761",
+    "monthlyPrice": "1,86",
+    "setupPrice": "8,47",
+    "currency": "R$"
+  },
+  {
+    "id": 409,
+    "value": "+55 (66) 90594-0509",
+    "monthlyPrice": "2,33",
+    "setupPrice": "4,47",
+    "currency": "U$"
+  },
+  {
+    "id": 410,
+    "value": "+55 (82) 28391-0213",
+    "monthlyPrice": "2,77",
+    "setupPrice": "6,84",
+    "currency": "U$"
+  },
+  {
+    "id": 411,
+    "value": "+55 (56) 95511-8053",
+    "monthlyPrice": "5,56",
+    "setupPrice": "1,03",
+    "currency": "R$"
+  },
+  {
+    "id": 412,
+    "value": "+55 (17) 10375-8333",
+    "monthlyPrice": "6,46",
+    "setupPrice": "3,80",
+    "currency": "R$"
+  },
+  {
+    "id": 413,
+    "value": "+55 (50) 70123-4324",
+    "monthlyPrice": "7,53",
+    "setupPrice": "6,89",
+    "currency": "U$"
+  },
+  {
+    "id": 414,
+    "value": "+55 (13) 05808-9563",
+    "monthlyPrice": "1,48",
+    "setupPrice": "5,44",
+    "currency": "R$"
+  },
+  {
+    "id": 415,
+    "value": "+55 (44) 36469-8635",
+    "monthlyPrice": "7,41",
+    "setupPrice": "9,12",
+    "currency": "R$"
+  },
+  {
+    "id": 416,
+    "value": "+55 (48) 74972-2207",
+    "monthlyPrice": "1,36",
+    "setupPrice": "1,07",
+    "currency": "U$"
+  },
+  {
+    "id": 417,
+    "value": "+55 (74) 12283-5373",
+    "monthlyPrice": "5,43",
+    "setupPrice": "9,39",
+    "currency": "U$"
+  },
+  {
+    "id": 418,
+    "value": "+55 (33) 05512-8025",
+    "monthlyPrice": "3,61",
+    "setupPrice": "1,72",
+    "currency": "U$"
+  },
+  {
+    "id": 419,
+    "value": "+55 (57) 08706-0137",
+    "monthlyPrice": "7,92",
+    "setupPrice": "8,12",
+    "currency": "R$"
+  },
+  {
+    "id": 420,
+    "value": "+55 (05) 22902-1872",
+    "monthlyPrice": "8,55",
+    "setupPrice": "1,43",
+    "currency": "R$"
+  },
+  {
+    "id": 421,
+    "value": "+55 (62) 16237-7310",
+    "monthlyPrice": "6,02",
+    "setupPrice": "4,78",
+    "currency": "R$"
+  },
+  {
+    "id": 422,
+    "value": "+55 (29) 44376-2882",
+    "monthlyPrice": "3,71",
+    "setupPrice": "5,31",
+    "currency": "U$"
+  },
+  {
+    "id": 423,
+    "value": "+55 (87) 14962-2057",
+    "monthlyPrice": "3,40",
+    "setupPrice": "1,51",
+    "currency": "U$"
+  },
+  {
+    "id": 424,
+    "value": "+55 (05) 02616-3924",
+    "monthlyPrice": "8,55",
+    "setupPrice": "7,87",
+    "currency": "R$"
+  },
+  {
+    "id": 425,
+    "value": "+55 (03) 72658-4427",
+    "monthlyPrice": "4,68",
+    "setupPrice": "3,94",
+    "currency": "U$"
+  },
+  {
+    "id": 426,
+    "value": "+55 (95) 42531-1478",
+    "monthlyPrice": "4,56",
+    "setupPrice": "6,94",
+    "currency": "R$"
+  },
+  {
+    "id": 427,
+    "value": "+55 (42) 93987-6455",
+    "monthlyPrice": "8,68",
+    "setupPrice": "3,41",
+    "currency": "R$"
+  },
+  {
+    "id": 428,
+    "value": "+55 (66) 54586-2485",
+    "monthlyPrice": "5,26",
+    "setupPrice": "8,91",
+    "currency": "U$"
+  },
+  {
+    "id": 429,
+    "value": "+55 (69) 06721-0813",
+    "monthlyPrice": "5,06",
+    "setupPrice": "8,06",
+    "currency": "U$"
+  },
+  {
+    "id": 430,
+    "value": "+55 (10) 62144-9700",
+    "monthlyPrice": "8,18",
+    "setupPrice": "8,35",
+    "currency": "U$"
+  },
+  {
+    "id": 431,
+    "value": "+55 (96) 52790-4415",
+    "monthlyPrice": "7,85",
+    "setupPrice": "7,00",
+    "currency": "U$"
+  },
+  {
+    "id": 432,
+    "value": "+55 (42) 44357-5450",
+    "monthlyPrice": "9,53",
+    "setupPrice": "2,60",
+    "currency": "U$"
+  },
+  {
+    "id": 433,
+    "value": "+55 (00) 16946-8765",
+    "monthlyPrice": "5,95",
+    "setupPrice": "9,72",
+    "currency": "U$"
+  },
+  {
+    "id": 434,
+    "value": "+55 (81) 85159-1240",
+    "monthlyPrice": "9,38",
+    "setupPrice": "1,50",
+    "currency": "R$"
+  },
+  {
+    "id": 435,
+    "value": "+55 (14) 47439-4434",
+    "monthlyPrice": "1,97",
+    "setupPrice": "7,57",
+    "currency": "R$"
+  },
+  {
+    "id": 436,
+    "value": "+55 (27) 28390-8854",
+    "monthlyPrice": "7,47",
+    "setupPrice": "4,09",
+    "currency": "R$"
+  },
+  {
+    "id": 437,
+    "value": "+55 (83) 91398-0342",
+    "monthlyPrice": "3,61",
+    "setupPrice": "3,38",
+    "currency": "U$"
+  },
+  {
+    "id": 438,
+    "value": "+55 (14) 12587-2480",
+    "monthlyPrice": "5,84",
+    "setupPrice": "1,62",
+    "currency": "U$"
+  },
+  {
+    "id": 439,
+    "value": "+55 (10) 25061-4189",
+    "monthlyPrice": "7,90",
+    "setupPrice": "9,50",
+    "currency": "U$"
+  },
+  {
+    "id": 440,
+    "value": "+55 (40) 40779-2336",
+    "monthlyPrice": "7,38",
+    "setupPrice": "2,07",
+    "currency": "R$"
+  },
+  {
+    "id": 441,
+    "value": "+55 (15) 03010-7688",
+    "monthlyPrice": "5,73",
+    "setupPrice": "9,07",
+    "currency": "U$"
+  },
+  {
+    "id": 442,
+    "value": "+55 (50) 92680-5528",
+    "monthlyPrice": "3,42",
+    "setupPrice": "2,30",
+    "currency": "R$"
+  },
+  {
+    "id": 443,
+    "value": "+55 (68) 91388-5555",
+    "monthlyPrice": "1,31",
+    "setupPrice": "4,07",
+    "currency": "R$"
+  },
+  {
+    "id": 444,
+    "value": "+55 (30) 90939-6609",
+    "monthlyPrice": "3,56",
+    "setupPrice": "5,74",
+    "currency": "R$"
+  },
+  {
+    "id": 445,
+    "value": "+55 (34) 81082-1127",
+    "monthlyPrice": "5,84",
+    "setupPrice": "4,62",
+    "currency": "U$"
+  },
+  {
+    "id": 446,
+    "value": "+55 (50) 05673-6995",
+    "monthlyPrice": "7,07",
+    "setupPrice": "5,63",
+    "currency": "U$"
+  },
+  {
+    "id": 447,
+    "value": "+55 (95) 59413-3020",
+    "monthlyPrice": "3,55",
+    "setupPrice": "8,11",
+    "currency": "R$"
+  },
+  {
+    "id": 448,
+    "value": "+55 (79) 37704-2745",
+    "monthlyPrice": "5,92",
+    "setupPrice": "7,90",
+    "currency": "R$"
+  },
+  {
+    "id": 449,
+    "value": "+55 (99) 64008-4204",
+    "monthlyPrice": "4,25",
+    "setupPrice": "2,92",
+    "currency": "U$"
+  },
+  {
+    "id": 450,
+    "value": "+55 (82) 62357-1147",
+    "monthlyPrice": "2,37",
+    "setupPrice": "1,21",
+    "currency": "U$"
+  },
+  {
+    "id": 451,
+    "value": "+55 (00) 01568-6624",
+    "monthlyPrice": "7,49",
+    "setupPrice": "8,69",
+    "currency": "R$"
+  },
+  {
+    "id": 452,
+    "value": "+55 (46) 42693-2665",
+    "monthlyPrice": "8,80",
+    "setupPrice": "6,18",
+    "currency": "U$"
+  },
+  {
+    "id": 453,
+    "value": "+55 (03) 93869-7627",
+    "monthlyPrice": "6,42",
+    "setupPrice": "6,94",
+    "currency": "U$"
+  },
+  {
+    "id": 454,
+    "value": "+55 (92) 45505-1994",
+    "monthlyPrice": "5,52",
+    "setupPrice": "6,82",
+    "currency": "R$"
+  },
+  {
+    "id": 455,
+    "value": "+55 (57) 56049-8726",
+    "monthlyPrice": "1,34",
+    "setupPrice": "5,68",
+    "currency": "U$"
+  },
+  {
+    "id": 456,
+    "value": "+55 (62) 04056-1370",
+    "monthlyPrice": "6,71",
+    "setupPrice": "1,57",
+    "currency": "R$"
+  },
+  {
+    "id": 457,
+    "value": "+55 (07) 58415-0252",
+    "monthlyPrice": "1,63",
+    "setupPrice": "1,54",
+    "currency": "R$"
+  },
+  {
+    "id": 458,
+    "value": "+55 (26) 88182-7288",
+    "monthlyPrice": "2,45",
+    "setupPrice": "5,87",
+    "currency": "R$"
+  },
+  {
+    "id": 459,
+    "value": "+55 (36) 83157-5023",
+    "monthlyPrice": "6,84",
+    "setupPrice": "3,66",
+    "currency": "R$"
+  },
+  {
+    "id": 460,
+    "value": "+55 (50) 18263-8260",
+    "monthlyPrice": "8,35",
+    "setupPrice": "6,38",
+    "currency": "R$"
+  },
+  {
+    "id": 461,
+    "value": "+55 (71) 16190-9386",
+    "monthlyPrice": "4,87",
+    "setupPrice": "1,55",
+    "currency": "R$"
+  },
+  {
+    "id": 462,
+    "value": "+55 (34) 27355-7821",
+    "monthlyPrice": "9,30",
+    "setupPrice": "5,25",
+    "currency": "U$"
+  },
+  {
+    "id": 463,
+    "value": "+55 (85) 24898-6118",
+    "monthlyPrice": "7,67",
+    "setupPrice": "9,76",
+    "currency": "R$"
+  },
+  {
+    "id": 464,
+    "value": "+55 (60) 13197-8151",
+    "monthlyPrice": "2,62",
+    "setupPrice": "6,70",
+    "currency": "R$"
+  },
+  {
+    "id": 465,
+    "value": "+55 (28) 45702-1612",
+    "monthlyPrice": "4,36",
+    "setupPrice": "5,77",
+    "currency": "U$"
+  },
+  {
+    "id": 466,
+    "value": "+55 (13) 73074-3549",
+    "monthlyPrice": "8,88",
+    "setupPrice": "8,29",
+    "currency": "R$"
+  },
+  {
+    "id": 467,
+    "value": "+55 (15) 62222-7916",
+    "monthlyPrice": "9,35",
+    "setupPrice": "2,51",
+    "currency": "R$"
+  },
+  {
+    "id": 468,
+    "value": "+55 (56) 70687-7705",
+    "monthlyPrice": "5,44",
+    "setupPrice": "1,67",
+    "currency": "U$"
+  },
+  {
+    "id": 469,
+    "value": "+55 (68) 99695-9628",
+    "monthlyPrice": "7,17",
+    "setupPrice": "1,72",
+    "currency": "R$"
+  },
+  {
+    "id": 470,
+    "value": "+55 (53) 82300-5240",
+    "monthlyPrice": "6,36",
+    "setupPrice": "2,77",
+    "currency": "R$"
+  },
+  {
+    "id": 471,
+    "value": "+55 (60) 04798-8727",
+    "monthlyPrice": "6,47",
+    "setupPrice": "4,07",
+    "currency": "R$"
+  },
+  {
+    "id": 472,
+    "value": "+55 (85) 41472-5169",
+    "monthlyPrice": "4,67",
+    "setupPrice": "7,99",
+    "currency": "U$"
+  },
+  {
+    "id": 473,
+    "value": "+55 (19) 74128-0275",
+    "monthlyPrice": "4,80",
+    "setupPrice": "5,02",
+    "currency": "U$"
+  },
+  {
+    "id": 474,
+    "value": "+55 (38) 76921-5086",
+    "monthlyPrice": "9,89",
+    "setupPrice": "2,04",
+    "currency": "U$"
+  },
+  {
+    "id": 475,
+    "value": "+55 (66) 81351-5515",
+    "monthlyPrice": "9,08",
+    "setupPrice": "5,12",
+    "currency": "R$"
+  },
+  {
+    "id": 476,
+    "value": "+55 (43) 51044-0688",
+    "monthlyPrice": "6,64",
+    "setupPrice": "2,73",
+    "currency": "U$"
+  },
+  {
+    "id": 477,
+    "value": "+55 (09) 98619-4491",
+    "monthlyPrice": "8,70",
+    "setupPrice": "8,38",
+    "currency": "U$"
+  },
+  {
+    "id": 478,
+    "value": "+55 (01) 83891-3516",
+    "monthlyPrice": "7,81",
+    "setupPrice": "2,74",
+    "currency": "R$"
+  },
+  {
+    "id": 479,
+    "value": "+55 (00) 25584-7518",
+    "monthlyPrice": "3,75",
+    "setupPrice": "2,06",
+    "currency": "U$"
+  },
+  {
+    "id": 480,
+    "value": "+55 (50) 02353-0626",
+    "monthlyPrice": "9,57",
+    "setupPrice": "5,95",
+    "currency": "U$"
+  },
+  {
+    "id": 481,
+    "value": "+55 (27) 27165-8447",
+    "monthlyPrice": "6,98",
+    "setupPrice": "5,55",
+    "currency": "R$"
+  },
+  {
+    "id": 482,
+    "value": "+55 (33) 21249-7463",
+    "monthlyPrice": "9,03",
+    "setupPrice": "5,33",
+    "currency": "U$"
+  },
+  {
+    "id": 483,
+    "value": "+55 (13) 00460-5276",
+    "monthlyPrice": "7,39",
+    "setupPrice": "7,88",
+    "currency": "R$"
+  },
+  {
+    "id": 484,
+    "value": "+55 (65) 20191-7493",
+    "monthlyPrice": "9,96",
+    "setupPrice": "3,02",
+    "currency": "R$"
+  },
+  {
+    "id": 485,
+    "value": "+55 (31) 69619-4636",
+    "monthlyPrice": "2,17",
+    "setupPrice": "1,02",
+    "currency": "U$"
+  },
+  {
+    "id": 486,
+    "value": "+55 (68) 10000-5360",
+    "monthlyPrice": "2,62",
+    "setupPrice": "3,12",
+    "currency": "R$"
+  },
+  {
+    "id": 487,
+    "value": "+55 (41) 79775-6405",
+    "monthlyPrice": "7,39",
+    "setupPrice": "7,80",
+    "currency": "R$"
+  },
+  {
+    "id": 488,
+    "value": "+55 (86) 24310-5585",
+    "monthlyPrice": "2,29",
+    "setupPrice": "6,76",
+    "currency": "U$"
+  },
+  {
+    "id": 489,
+    "value": "+55 (88) 40413-7442",
+    "monthlyPrice": "2,91",
+    "setupPrice": "4,15",
+    "currency": "R$"
+  },
+  {
+    "id": 490,
+    "value": "+55 (47) 37436-3843",
+    "monthlyPrice": "7,52",
+    "setupPrice": "9,05",
+    "currency": "U$"
+  },
+  {
+    "id": 491,
+    "value": "+55 (70) 46653-1529",
+    "monthlyPrice": "6,14",
+    "setupPrice": "4,21",
+    "currency": "R$"
+  },
+  {
+    "id": 492,
+    "value": "+55 (81) 62694-1895",
+    "monthlyPrice": "2,37",
+    "setupPrice": "1,85",
+    "currency": "R$"
+  },
+  {
+    "id": 493,
+    "value": "+55 (92) 40790-7415",
+    "monthlyPrice": "1,07",
+    "setupPrice": "1,71",
+    "currency": "R$"
+  },
+  {
+    "id": 494,
+    "value": "+55 (52) 90645-0786",
+    "monthlyPrice": "7,06",
+    "setupPrice": "1,67",
+    "currency": "R$"
+  },
+  {
+    "id": 495,
+    "value": "+55 (88) 55099-7996",
+    "monthlyPrice": "3,16",
+    "setupPrice": "6,22",
+    "currency": "R$"
+  },
+  {
+    "id": 496,
+    "value": "+55 (16) 41092-8466",
+    "monthlyPrice": "4,20",
+    "setupPrice": "7,88",
+    "currency": "R$"
+  },
+  {
+    "id": 497,
+    "value": "+55 (59) 07847-5343",
+    "monthlyPrice": "4,97",
+    "setupPrice": "5,63",
+    "currency": "U$"
+  },
+  {
+    "id": 498,
+    "value": "+55 (48) 78556-6063",
+    "monthlyPrice": "5,95",
+    "setupPrice": "3,09",
+    "currency": "U$"
+  },
+  {
+    "id": 499,
+    "value": "+55 (99) 20969-0147",
+    "monthlyPrice": "8,57",
+    "setupPrice": "6,09",
+    "currency": "U$"
+  },
+  {
+    "id": 500,
+    "value": "+55 (91) 45626-4172",
+    "monthlyPrice": "2,75",
+    "setupPrice": "1,65",
+    "currency": "R$"
+  },
+  {
+    "id": 501,
+    "value": "+55 (49) 49027-0946",
+    "monthlyPrice": "7,87",
+    "setupPrice": "8,54",
+    "currency": "U$"
+  },
+  {
+    "id": 502,
+    "value": "+55 (07) 16931-6785",
+    "monthlyPrice": "6,95",
+    "setupPrice": "9,61",
+    "currency": "U$"
+  },
+  {
+    "id": 503,
+    "value": "+55 (25) 54198-8298",
+    "monthlyPrice": "7,33",
+    "setupPrice": "5,97",
+    "currency": "R$"
+  },
+  {
+    "id": 504,
+    "value": "+55 (60) 66545-5594",
+    "monthlyPrice": "4,49",
+    "setupPrice": "4,92",
+    "currency": "R$"
+  },
+  {
+    "id": 505,
+    "value": "+55 (19) 27086-5324",
+    "monthlyPrice": "8,60",
+    "setupPrice": "3,42",
+    "currency": "R$"
+  },
+  {
+    "id": 506,
+    "value": "+55 (61) 10864-8806",
+    "monthlyPrice": "9,07",
+    "setupPrice": "6,09",
+    "currency": "U$"
+  },
+  {
+    "id": 507,
+    "value": "+55 (79) 02968-3846",
+    "monthlyPrice": "3,71",
+    "setupPrice": "6,00",
+    "currency": "R$"
+  },
+  {
+    "id": 508,
+    "value": "+55 (53) 16365-6928",
+    "monthlyPrice": "2,12",
+    "setupPrice": "8,91",
+    "currency": "U$"
+  },
+  {
+    "id": 509,
+    "value": "+55 (21) 48002-9575",
+    "monthlyPrice": "3,93",
+    "setupPrice": "1,57",
+    "currency": "R$"
+  },
+  {
+    "id": 510,
+    "value": "+55 (43) 27150-8585",
+    "monthlyPrice": "3,51",
+    "setupPrice": "2,77",
+    "currency": "R$"
+  },
+  {
+    "id": 511,
+    "value": "+55 (79) 59757-7818",
+    "monthlyPrice": "9,26",
+    "setupPrice": "6,61",
+    "currency": "R$"
+  },
+  {
+    "id": 512,
+    "value": "+55 (34) 61687-6793",
+    "monthlyPrice": "9,05",
+    "setupPrice": "6,32",
+    "currency": "R$"
+  },
+  {
+    "id": 513,
+    "value": "+55 (66) 86967-0177",
+    "monthlyPrice": "8,65",
+    "setupPrice": "5,85",
+    "currency": "R$"
+  },
+  {
+    "id": 514,
+    "value": "+55 (46) 00966-1663",
+    "monthlyPrice": "1,31",
+    "setupPrice": "5,47",
+    "currency": "R$"
+  },
+  {
+    "id": 515,
+    "value": "+55 (63) 86851-8337",
+    "monthlyPrice": "6,96",
+    "setupPrice": "3,86",
+    "currency": "U$"
+  },
+  {
+    "id": 516,
+    "value": "+55 (46) 13087-6917",
+    "monthlyPrice": "7,46",
+    "setupPrice": "6,82",
+    "currency": "R$"
+  },
+  {
+    "id": 517,
+    "value": "+55 (49) 61616-8890",
+    "monthlyPrice": "7,20",
+    "setupPrice": "6,83",
+    "currency": "U$"
+  },
+  {
+    "id": 518,
+    "value": "+55 (47) 28507-5973",
+    "monthlyPrice": "4,95",
+    "setupPrice": "8,18",
+    "currency": "R$"
+  },
+  {
+    "id": 519,
+    "value": "+55 (94) 57971-8651",
+    "monthlyPrice": "2,65",
+    "setupPrice": "8,66",
+    "currency": "R$"
+  },
+  {
+    "id": 520,
+    "value": "+55 (92) 73940-5093",
+    "monthlyPrice": "3,20",
+    "setupPrice": "7,45",
+    "currency": "R$"
+  },
+  {
+    "id": 521,
+    "value": "+55 (95) 20939-4404",
+    "monthlyPrice": "2,58",
+    "setupPrice": "5,49",
+    "currency": "U$"
+  },
+  {
+    "id": 522,
+    "value": "+55 (82) 50430-7206",
+    "monthlyPrice": "1,29",
+    "setupPrice": "1,98",
+    "currency": "U$"
+  },
+  {
+    "id": 523,
+    "value": "+55 (31) 92021-6621",
+    "monthlyPrice": "8,46",
+    "setupPrice": "4,59",
+    "currency": "R$"
+  },
+  {
+    "id": 524,
+    "value": "+55 (27) 79363-2320",
+    "monthlyPrice": "6,75",
+    "setupPrice": "5,13",
+    "currency": "R$"
+  },
+  {
+    "id": 525,
+    "value": "+55 (22) 58560-4661",
+    "monthlyPrice": "1,02",
+    "setupPrice": "4,90",
+    "currency": "R$"
+  },
+  {
+    "id": 526,
+    "value": "+55 (68) 11005-1557",
+    "monthlyPrice": "9,54",
+    "setupPrice": "1,08",
+    "currency": "U$"
+  },
+  {
+    "id": 527,
+    "value": "+55 (79) 60979-4718",
+    "monthlyPrice": "7,70",
+    "setupPrice": "6,09",
+    "currency": "U$"
+  },
+  {
+    "id": 528,
+    "value": "+55 (87) 71973-7046",
+    "monthlyPrice": "7,81",
+    "setupPrice": "3,40",
+    "currency": "U$"
+  },
+  {
+    "id": 529,
+    "value": "+55 (97) 15880-6379",
+    "monthlyPrice": "5,61",
+    "setupPrice": "7,05",
+    "currency": "U$"
+  },
+  {
+    "id": 530,
+    "value": "+55 (17) 88279-4056",
+    "monthlyPrice": "6,00",
+    "setupPrice": "8,44",
+    "currency": "R$"
+  },
+  {
+    "id": 531,
+    "value": "+55 (42) 36944-6849",
+    "monthlyPrice": "9,17",
+    "setupPrice": "7,09",
+    "currency": "R$"
+  },
+  {
+    "id": 532,
+    "value": "+55 (67) 39662-3129",
+    "monthlyPrice": "3,78",
+    "setupPrice": "1,14",
+    "currency": "U$"
+  },
+  {
+    "id": 533,
+    "value": "+55 (65) 17194-3899",
+    "monthlyPrice": "7,16",
+    "setupPrice": "1,84",
+    "currency": "R$"
+  },
+  {
+    "id": 534,
+    "value": "+55 (98) 93074-8821",
+    "monthlyPrice": "1,29",
+    "setupPrice": "7,12",
+    "currency": "R$"
+  },
+  {
+    "id": 535,
+    "value": "+55 (06) 59029-1577",
+    "monthlyPrice": "8,89",
+    "setupPrice": "9,79",
+    "currency": "U$"
+  },
+  {
+    "id": 536,
+    "value": "+55 (67) 83474-7729",
+    "monthlyPrice": "3,07",
+    "setupPrice": "4,52",
+    "currency": "U$"
+  },
+  {
+    "id": 537,
+    "value": "+55 (07) 58745-6246",
+    "monthlyPrice": "5,02",
+    "setupPrice": "2,17",
+    "currency": "U$"
+  },
+  {
+    "id": 538,
+    "value": "+55 (42) 31113-1081",
+    "monthlyPrice": "7,92",
+    "setupPrice": "2,20",
+    "currency": "R$"
+  },
+  {
+    "id": 539,
+    "value": "+55 (87) 37375-9377",
+    "monthlyPrice": "9,92",
+    "setupPrice": "9,49",
+    "currency": "U$"
+  },
+  {
+    "id": 540,
+    "value": "+55 (82) 50965-8847",
+    "monthlyPrice": "8,38",
+    "setupPrice": "6,85",
+    "currency": "R$"
+  },
+  {
+    "id": 541,
+    "value": "+55 (88) 39740-2700",
+    "monthlyPrice": "5,07",
+    "setupPrice": "6,64",
+    "currency": "R$"
+  },
+  {
+    "id": 542,
+    "value": "+55 (83) 80761-7887",
+    "monthlyPrice": "5,34",
+    "setupPrice": "1,43",
+    "currency": "R$"
+  },
+  {
+    "id": 543,
+    "value": "+55 (98) 28353-1547",
+    "monthlyPrice": "5,32",
+    "setupPrice": "3,29",
+    "currency": "R$"
+  },
+  {
+    "id": 544,
+    "value": "+55 (07) 58927-5595",
+    "monthlyPrice": "5,29",
+    "setupPrice": "4,21",
+    "currency": "U$"
+  },
+  {
+    "id": 545,
+    "value": "+55 (49) 73584-7548",
+    "monthlyPrice": "2,82",
+    "setupPrice": "7,27",
+    "currency": "R$"
+  },
+  {
+    "id": 546,
+    "value": "+55 (42) 64459-8673",
+    "monthlyPrice": "8,13",
+    "setupPrice": "4,99",
+    "currency": "R$"
+  },
+  {
+    "id": 547,
+    "value": "+55 (03) 18562-8609",
+    "monthlyPrice": "6,84",
+    "setupPrice": "5,50",
+    "currency": "U$"
+  },
+  {
+    "id": 548,
+    "value": "+55 (13) 97887-2504",
+    "monthlyPrice": "4,23",
+    "setupPrice": "5,12",
+    "currency": "U$"
+  },
+  {
+    "id": 549,
+    "value": "+55 (49) 90298-4135",
+    "monthlyPrice": "9,25",
+    "setupPrice": "9,33",
+    "currency": "U$"
+  },
+  {
+    "id": 550,
+    "value": "+55 (75) 19005-7386",
+    "monthlyPrice": "3,99",
+    "setupPrice": "4,69",
+    "currency": "U$"
+  },
+  {
+    "id": 551,
+    "value": "+55 (32) 05623-4288",
+    "monthlyPrice": "3,12",
+    "setupPrice": "1,30",
+    "currency": "R$"
+  },
+  {
+    "id": 552,
+    "value": "+55 (64) 83069-0683",
+    "monthlyPrice": "9,76",
+    "setupPrice": "5,15",
+    "currency": "U$"
+  },
+  {
+    "id": 553,
+    "value": "+55 (03) 23348-9178",
+    "monthlyPrice": "8,39",
+    "setupPrice": "3,70",
+    "currency": "U$"
+  },
+  {
+    "id": 554,
+    "value": "+55 (40) 01302-6849",
+    "monthlyPrice": "8,36",
+    "setupPrice": "5,23",
+    "currency": "R$"
+  },
+  {
+    "id": 555,
+    "value": "+55 (12) 70791-7662",
+    "monthlyPrice": "9,89",
+    "setupPrice": "3,41",
+    "currency": "U$"
+  },
+  {
+    "id": 556,
+    "value": "+55 (50) 25019-1560",
+    "monthlyPrice": "8,54",
+    "setupPrice": "9,67",
+    "currency": "U$"
+  },
+  {
+    "id": 557,
+    "value": "+55 (85) 29968-1590",
+    "monthlyPrice": "3,16",
+    "setupPrice": "1,50",
+    "currency": "R$"
+  },
+  {
+    "id": 558,
+    "value": "+55 (77) 07061-9289",
+    "monthlyPrice": "3,93",
+    "setupPrice": "9,88",
+    "currency": "U$"
+  },
+  {
+    "id": 559,
+    "value": "+55 (63) 27829-3214",
+    "monthlyPrice": "8,23",
+    "setupPrice": "8,93",
+    "currency": "U$"
+  },
+  {
+    "id": 560,
+    "value": "+55 (59) 20473-5619",
+    "monthlyPrice": "1,21",
+    "setupPrice": "4,32",
+    "currency": "R$"
+  },
+  {
+    "id": 561,
+    "value": "+55 (89) 18797-5349",
+    "monthlyPrice": "2,65",
+    "setupPrice": "5,42",
+    "currency": "R$"
+  },
+  {
+    "id": 562,
+    "value": "+55 (92) 79241-7657",
+    "monthlyPrice": "2,95",
+    "setupPrice": "9,01",
+    "currency": "U$"
+  },
+  {
+    "id": 563,
+    "value": "+55 (00) 51920-3884",
+    "monthlyPrice": "9,19",
+    "setupPrice": "6,09",
+    "currency": "R$"
+  },
+  {
+    "id": 564,
+    "value": "+55 (09) 86683-8677",
+    "monthlyPrice": "9,60",
+    "setupPrice": "4,82",
+    "currency": "R$"
+  },
+  {
+    "id": 565,
+    "value": "+55 (36) 76578-4518",
+    "monthlyPrice": "5,42",
+    "setupPrice": "5,69",
+    "currency": "R$"
+  },
+  {
+    "id": 566,
+    "value": "+55 (60) 82225-0473",
+    "monthlyPrice": "7,05",
+    "setupPrice": "7,99",
+    "currency": "R$"
+  },
+  {
+    "id": 567,
+    "value": "+55 (64) 58097-1873",
+    "monthlyPrice": "7,30",
+    "setupPrice": "9,58",
+    "currency": "R$"
+  },
+  {
+    "id": 568,
+    "value": "+55 (45) 88893-7094",
+    "monthlyPrice": "8,33",
+    "setupPrice": "4,67",
+    "currency": "U$"
+  },
+  {
+    "id": 569,
+    "value": "+55 (40) 48713-4257",
+    "monthlyPrice": "4,95",
+    "setupPrice": "8,86",
+    "currency": "R$"
+  },
+  {
+    "id": 570,
+    "value": "+55 (37) 62724-4211",
+    "monthlyPrice": "4,94",
+    "setupPrice": "4,49",
+    "currency": "U$"
+  },
+  {
+    "id": 571,
+    "value": "+55 (83) 87039-3888",
+    "monthlyPrice": "1,13",
+    "setupPrice": "2,02",
+    "currency": "R$"
+  },
+  {
+    "id": 572,
+    "value": "+55 (13) 86442-9631",
+    "monthlyPrice": "3,50",
+    "setupPrice": "2,60",
+    "currency": "U$"
+  },
+  {
+    "id": 573,
+    "value": "+55 (23) 44574-0567",
+    "monthlyPrice": "5,72",
+    "setupPrice": "4,80",
+    "currency": "U$"
+  },
+  {
+    "id": 574,
+    "value": "+55 (22) 26587-2386",
+    "monthlyPrice": "3,24",
+    "setupPrice": "6,93",
+    "currency": "R$"
+  },
+  {
+    "id": 575,
+    "value": "+55 (14) 17603-9235",
+    "monthlyPrice": "6,44",
+    "setupPrice": "8,55",
+    "currency": "R$"
+  },
+  {
+    "id": 576,
+    "value": "+55 (82) 32365-5229",
+    "monthlyPrice": "1,29",
+    "setupPrice": "3,98",
+    "currency": "U$"
+  },
+  {
+    "id": 577,
+    "value": "+55 (24) 33115-1222",
+    "monthlyPrice": "3,94",
+    "setupPrice": "6,96",
+    "currency": "R$"
+  },
+  {
+    "id": 578,
+    "value": "+55 (84) 67464-5938",
+    "monthlyPrice": "2,75",
+    "setupPrice": "3,62",
+    "currency": "U$"
+  },
+  {
+    "id": 579,
+    "value": "+55 (47) 17101-7665",
+    "monthlyPrice": "8,45",
+    "setupPrice": "8,79",
+    "currency": "R$"
+  },
+  {
+    "id": 580,
+    "value": "+55 (52) 38679-3177",
+    "monthlyPrice": "8,18",
+    "setupPrice": "7,22",
+    "currency": "U$"
+  },
+  {
+    "id": 581,
+    "value": "+55 (86) 93584-0570",
+    "monthlyPrice": "1,20",
+    "setupPrice": "4,23",
+    "currency": "U$"
+  },
+  {
+    "id": 582,
+    "value": "+55 (11) 95868-5208",
+    "monthlyPrice": "8,67",
+    "setupPrice": "3,04",
+    "currency": "R$"
+  },
+  {
+    "id": 583,
+    "value": "+55 (33) 88474-4038",
+    "monthlyPrice": "9,34",
+    "setupPrice": "4,17",
+    "currency": "U$"
+  },
+  {
+    "id": 584,
+    "value": "+55 (37) 66754-6423",
+    "monthlyPrice": "7,11",
+    "setupPrice": "3,39",
+    "currency": "U$"
+  },
+  {
+    "id": 585,
+    "value": "+55 (01) 29502-6016",
+    "monthlyPrice": "8,88",
+    "setupPrice": "7,06",
+    "currency": "R$"
+  },
+  {
+    "id": 586,
+    "value": "+55 (90) 05570-4930",
+    "monthlyPrice": "2,73",
+    "setupPrice": "8,17",
+    "currency": "R$"
+  },
+  {
+    "id": 587,
+    "value": "+55 (62) 57491-3136",
+    "monthlyPrice": "4,67",
+    "setupPrice": "9,46",
+    "currency": "R$"
+  },
+  {
+    "id": 588,
+    "value": "+55 (55) 75713-4198",
+    "monthlyPrice": "8,97",
+    "setupPrice": "4,62",
+    "currency": "R$"
+  },
+  {
+    "id": 589,
+    "value": "+55 (67) 86802-5468",
+    "monthlyPrice": "6,21",
+    "setupPrice": "2,84",
+    "currency": "R$"
+  },
+  {
+    "id": 590,
+    "value": "+55 (72) 85270-0620",
+    "monthlyPrice": "6,57",
+    "setupPrice": "7,86",
+    "currency": "U$"
+  },
+  {
+    "id": 591,
+    "value": "+55 (39) 21345-1656",
+    "monthlyPrice": "2,94",
+    "setupPrice": "8,03",
+    "currency": "U$"
+  },
+  {
+    "id": 592,
+    "value": "+55 (96) 49330-3072",
+    "monthlyPrice": "2,82",
+    "setupPrice": "9,40",
+    "currency": "U$"
+  },
+  {
+    "id": 593,
+    "value": "+55 (87) 37779-4760",
+    "monthlyPrice": "2,96",
+    "setupPrice": "7,69",
+    "currency": "R$"
+  },
+  {
+    "id": 594,
+    "value": "+55 (22) 68097-3687",
+    "monthlyPrice": "9,15",
+    "setupPrice": "5,43",
+    "currency": "U$"
+  },
+  {
+    "id": 595,
+    "value": "+55 (80) 25842-2550",
+    "monthlyPrice": "6,32",
+    "setupPrice": "5,32",
+    "currency": "R$"
+  },
+  {
+    "id": 596,
+    "value": "+55 (06) 29898-5382",
+    "monthlyPrice": "7,96",
+    "setupPrice": "4,97",
+    "currency": "U$"
+  },
+  {
+    "id": 597,
+    "value": "+55 (81) 09021-6287",
+    "monthlyPrice": "5,98",
+    "setupPrice": "8,67",
+    "currency": "U$"
+  },
+  {
+    "id": 598,
+    "value": "+55 (96) 08185-0363",
+    "monthlyPrice": "1,65",
+    "setupPrice": "2,54",
+    "currency": "U$"
+  },
+  {
+    "id": 599,
+    "value": "+55 (38) 11368-4017",
+    "monthlyPrice": "1,06",
+    "setupPrice": "6,81",
+    "currency": "R$"
+  },
+  {
+    "id": 600,
+    "value": "+55 (46) 03274-9012",
+    "monthlyPrice": "5,15",
+    "setupPrice": "4,18",
+    "currency": "U$"
+  },
+  {
+    "id": 601,
+    "value": "+55 (95) 63371-9966",
+    "monthlyPrice": "3,29",
+    "setupPrice": "2,70",
+    "currency": "R$"
+  },
+  {
+    "id": 602,
+    "value": "+55 (82) 23295-0416",
+    "monthlyPrice": "8,42",
+    "setupPrice": "5,15",
+    "currency": "U$"
+  },
+  {
+    "id": 603,
+    "value": "+55 (67) 57916-0713",
+    "monthlyPrice": "9,34",
+    "setupPrice": "6,85",
+    "currency": "U$"
+  },
+  {
+    "id": 604,
+    "value": "+55 (59) 80628-5495",
+    "monthlyPrice": "3,98",
+    "setupPrice": "8,13",
+    "currency": "U$"
+  },
+  {
+    "id": 605,
+    "value": "+55 (14) 75460-1648",
+    "monthlyPrice": "7,38",
+    "setupPrice": "6,66",
+    "currency": "R$"
+  },
+  {
+    "id": 606,
+    "value": "+55 (74) 21102-9437",
+    "monthlyPrice": "8,64",
+    "setupPrice": "9,81",
+    "currency": "R$"
+  },
+  {
+    "id": 607,
+    "value": "+55 (54) 04736-8933",
+    "monthlyPrice": "1,22",
+    "setupPrice": "7,44",
+    "currency": "R$"
+  },
+  {
+    "id": 608,
+    "value": "+55 (33) 83301-7563",
+    "monthlyPrice": "6,67",
+    "setupPrice": "4,43",
+    "currency": "R$"
+  },
+  {
+    "id": 609,
+    "value": "+55 (41) 73759-1992",
+    "monthlyPrice": "9,35",
+    "setupPrice": "7,93",
+    "currency": "R$"
+  },
+  {
+    "id": 610,
+    "value": "+55 (83) 63441-7333",
+    "monthlyPrice": "9,01",
+    "setupPrice": "2,55",
+    "currency": "U$"
+  },
+  {
+    "id": 611,
+    "value": "+55 (71) 63815-8559",
+    "monthlyPrice": "3,09",
+    "setupPrice": "5,97",
+    "currency": "U$"
+  },
+  {
+    "id": 612,
+    "value": "+55 (23) 23776-8326",
+    "monthlyPrice": "8,18",
+    "setupPrice": "8,93",
+    "currency": "U$"
+  },
+  {
+    "id": 613,
+    "value": "+55 (30) 68239-4517",
+    "monthlyPrice": "8,57",
+    "setupPrice": "2,41",
+    "currency": "R$"
+  },
+  {
+    "id": 614,
+    "value": "+55 (45) 29777-1980",
+    "monthlyPrice": "8,44",
+    "setupPrice": "7,62",
+    "currency": "R$"
+  },
+  {
+    "id": 615,
+    "value": "+55 (40) 06482-0007",
+    "monthlyPrice": "7,85",
+    "setupPrice": "9,87",
+    "currency": "U$"
+  },
+  {
+    "id": 616,
+    "value": "+55 (95) 73772-4800",
+    "monthlyPrice": "9,37",
+    "setupPrice": "9,06",
+    "currency": "U$"
+  },
+  {
+    "id": 617,
+    "value": "+55 (12) 09501-4274",
+    "monthlyPrice": "9,62",
+    "setupPrice": "3,18",
+    "currency": "U$"
+  },
+  {
+    "id": 618,
+    "value": "+55 (97) 99587-5322",
+    "monthlyPrice": "9,47",
+    "setupPrice": "4,25",
+    "currency": "U$"
+  },
+  {
+    "id": 619,
+    "value": "+55 (55) 45081-9707",
+    "monthlyPrice": "8,30",
+    "setupPrice": "3,33",
+    "currency": "R$"
+  },
+  {
+    "id": 620,
+    "value": "+55 (46) 32945-8823",
+    "monthlyPrice": "1,34",
+    "setupPrice": "9,04",
+    "currency": "R$"
+  },
+  {
+    "id": 621,
+    "value": "+55 (40) 78175-6226",
+    "monthlyPrice": "7,72",
+    "setupPrice": "9,85",
+    "currency": "R$"
+  },
+  {
+    "id": 622,
+    "value": "+55 (01) 87915-5541",
+    "monthlyPrice": "4,80",
+    "setupPrice": "2,12",
+    "currency": "U$"
+  },
+  {
+    "id": 623,
+    "value": "+55 (58) 69324-9439",
+    "monthlyPrice": "8,18",
+    "setupPrice": "6,36",
+    "currency": "U$"
+  },
+  {
+    "id": 624,
+    "value": "+55 (16) 28170-6489",
+    "monthlyPrice": "1,95",
+    "setupPrice": "1,17",
+    "currency": "R$"
+  },
+  {
+    "id": 625,
+    "value": "+55 (08) 22008-9847",
+    "monthlyPrice": "8,31",
+    "setupPrice": "1,27",
+    "currency": "R$"
+  },
+  {
+    "id": 626,
+    "value": "+55 (72) 95420-4278",
+    "monthlyPrice": "4,85",
+    "setupPrice": "7,44",
+    "currency": "R$"
+  },
+  {
+    "id": 627,
+    "value": "+55 (47) 24171-3514",
+    "monthlyPrice": "3,41",
+    "setupPrice": "9,87",
+    "currency": "R$"
+  },
+  {
+    "id": 628,
+    "value": "+55 (83) 97709-7247",
+    "monthlyPrice": "8,67",
+    "setupPrice": "4,04",
+    "currency": "U$"
+  },
+  {
+    "id": 629,
+    "value": "+55 (34) 78345-9192",
+    "monthlyPrice": "2,50",
+    "setupPrice": "3,17",
+    "currency": "R$"
+  },
+  {
+    "id": 630,
+    "value": "+55 (48) 33656-8571",
+    "monthlyPrice": "9,00",
+    "setupPrice": "5,99",
+    "currency": "R$"
+  },
+  {
+    "id": 631,
+    "value": "+55 (34) 61622-4741",
+    "monthlyPrice": "7,57",
+    "setupPrice": "9,71",
+    "currency": "R$"
+  },
+  {
+    "id": 632,
+    "value": "+55 (15) 00781-5737",
+    "monthlyPrice": "9,53",
+    "setupPrice": "6,28",
+    "currency": "R$"
+  },
+  {
+    "id": 633,
+    "value": "+55 (02) 02368-8386",
+    "monthlyPrice": "6,94",
+    "setupPrice": "8,59",
+    "currency": "U$"
+  },
+  {
+    "id": 634,
+    "value": "+55 (35) 46819-0085",
+    "monthlyPrice": "6,35",
+    "setupPrice": "5,23",
+    "currency": "U$"
+  },
+  {
+    "id": 635,
+    "value": "+55 (53) 25980-6829",
+    "monthlyPrice": "4,15",
+    "setupPrice": "7,85",
+    "currency": "U$"
+  },
+  {
+    "id": 636,
+    "value": "+55 (32) 99395-5140",
+    "monthlyPrice": "1,70",
+    "setupPrice": "5,85",
+    "currency": "R$"
+  },
+  {
+    "id": 637,
+    "value": "+55 (19) 75259-3857",
+    "monthlyPrice": "3,01",
+    "setupPrice": "7,08",
+    "currency": "R$"
+  },
+  {
+    "id": 638,
+    "value": "+55 (42) 77430-8795",
+    "monthlyPrice": "6,78",
+    "setupPrice": "1,66",
+    "currency": "U$"
+  },
+  {
+    "id": 639,
+    "value": "+55 (47) 71114-2282",
+    "monthlyPrice": "8,24",
+    "setupPrice": "2,06",
+    "currency": "R$"
+  },
+  {
+    "id": 640,
+    "value": "+55 (36) 93106-2109",
+    "monthlyPrice": "3,26",
+    "setupPrice": "1,51",
+    "currency": "U$"
+  },
+  {
+    "id": 641,
+    "value": "+55 (21) 28227-1402",
+    "monthlyPrice": "2,47",
+    "setupPrice": "9,53",
+    "currency": "R$"
+  },
+  {
+    "id": 642,
+    "value": "+55 (98) 61479-6867",
+    "monthlyPrice": "1,18",
+    "setupPrice": "9,97",
+    "currency": "U$"
+  },
+  {
+    "id": 643,
+    "value": "+55 (76) 39977-6195",
+    "monthlyPrice": "8,01",
+    "setupPrice": "3,45",
+    "currency": "R$"
+  },
+  {
+    "id": 644,
+    "value": "+55 (49) 51570-4278",
+    "monthlyPrice": "3,59",
+    "setupPrice": "7,08",
+    "currency": "U$"
+  },
+  {
+    "id": 645,
+    "value": "+55 (24) 63396-5864",
+    "monthlyPrice": "7,13",
+    "setupPrice": "1,25",
+    "currency": "U$"
+  },
+  {
+    "id": 646,
+    "value": "+55 (79) 94140-4147",
+    "monthlyPrice": "7,15",
+    "setupPrice": "1,08",
+    "currency": "U$"
+  },
+  {
+    "id": 647,
+    "value": "+55 (86) 15221-4632",
+    "monthlyPrice": "3,59",
+    "setupPrice": "3,94",
+    "currency": "R$"
+  },
+  {
+    "id": 648,
+    "value": "+55 (39) 51357-6582",
+    "monthlyPrice": "1,77",
+    "setupPrice": "8,90",
+    "currency": "U$"
+  },
+  {
+    "id": 649,
+    "value": "+55 (69) 52803-8812",
+    "monthlyPrice": "5,85",
+    "setupPrice": "7,50",
+    "currency": "R$"
+  },
+  {
+    "id": 650,
+    "value": "+55 (35) 09921-4625",
+    "monthlyPrice": "7,09",
+    "setupPrice": "2,09",
+    "currency": "R$"
+  },
+  {
+    "id": 651,
+    "value": "+55 (16) 29405-6712",
+    "monthlyPrice": "8,91",
+    "setupPrice": "5,66",
+    "currency": "R$"
+  },
+  {
+    "id": 652,
+    "value": "+55 (19) 31268-0338",
+    "monthlyPrice": "5,87",
+    "setupPrice": "5,72",
+    "currency": "R$"
+  },
+  {
+    "id": 653,
+    "value": "+55 (61) 30797-5670",
+    "monthlyPrice": "3,66",
+    "setupPrice": "9,94",
+    "currency": "R$"
+  },
+  {
+    "id": 654,
+    "value": "+55 (77) 74979-6247",
+    "monthlyPrice": "6,59",
+    "setupPrice": "1,86",
+    "currency": "R$"
+  },
+  {
+    "id": 655,
+    "value": "+55 (63) 37332-5206",
+    "monthlyPrice": "2,04",
+    "setupPrice": "7,55",
+    "currency": "U$"
+  },
+  {
+    "id": 656,
+    "value": "+55 (31) 22915-8805",
+    "monthlyPrice": "5,15",
+    "setupPrice": "1,39",
+    "currency": "R$"
+  },
+  {
+    "id": 657,
+    "value": "+55 (10) 00036-9162",
+    "monthlyPrice": "8,51",
+    "setupPrice": "6,78",
+    "currency": "R$"
+  },
+  {
+    "id": 658,
+    "value": "+55 (13) 20751-4618",
+    "monthlyPrice": "1,15",
+    "setupPrice": "2,98",
+    "currency": "R$"
+  },
+  {
+    "id": 659,
+    "value": "+55 (58) 54780-4292",
+    "monthlyPrice": "7,88",
+    "setupPrice": "4,17",
+    "currency": "U$"
+  },
+  {
+    "id": 660,
+    "value": "+55 (51) 48403-8844",
+    "monthlyPrice": "2,00",
+    "setupPrice": "5,37",
+    "currency": "R$"
+  },
+  {
+    "id": 661,
+    "value": "+55 (01) 07495-8694",
+    "monthlyPrice": "9,12",
+    "setupPrice": "4,18",
+    "currency": "U$"
+  },
+  {
+    "id": 662,
+    "value": "+55 (62) 36945-9480",
+    "monthlyPrice": "8,96",
+    "setupPrice": "1,29",
+    "currency": "R$"
+  },
+  {
+    "id": 663,
+    "value": "+55 (00) 80235-0374",
+    "monthlyPrice": "2,68",
+    "setupPrice": "7,75",
+    "currency": "U$"
+  },
+  {
+    "id": 664,
+    "value": "+55 (33) 85450-1550",
+    "monthlyPrice": "8,89",
+    "setupPrice": "8,98",
+    "currency": "R$"
+  },
+  {
+    "id": 665,
+    "value": "+55 (17) 09608-1128",
+    "monthlyPrice": "1,09",
+    "setupPrice": "2,59",
+    "currency": "U$"
+  },
+  {
+    "id": 666,
+    "value": "+55 (24) 04477-7566",
+    "monthlyPrice": "5,04",
+    "setupPrice": "1,60",
+    "currency": "R$"
+  },
+  {
+    "id": 667,
+    "value": "+55 (45) 87947-9404",
+    "monthlyPrice": "2,38",
+    "setupPrice": "8,10",
+    "currency": "R$"
+  },
+  {
+    "id": 668,
+    "value": "+55 (32) 14956-4196",
+    "monthlyPrice": "7,92",
+    "setupPrice": "2,42",
+    "currency": "R$"
+  },
+  {
+    "id": 669,
+    "value": "+55 (16) 26168-3620",
+    "monthlyPrice": "8,54",
+    "setupPrice": "2,13",
+    "currency": "U$"
+  },
+  {
+    "id": 670,
+    "value": "+55 (70) 81199-2812",
+    "monthlyPrice": "7,00",
+    "setupPrice": "9,13",
+    "currency": "R$"
+  },
+  {
+    "id": 671,
+    "value": "+55 (35) 66291-6524",
+    "monthlyPrice": "6,16",
+    "setupPrice": "9,52",
+    "currency": "U$"
+  },
+  {
+    "id": 672,
+    "value": "+55 (51) 80404-7114",
+    "monthlyPrice": "7,18",
+    "setupPrice": "9,02",
+    "currency": "U$"
+  },
+  {
+    "id": 673,
+    "value": "+55 (11) 18732-8860",
+    "monthlyPrice": "3,29",
+    "setupPrice": "2,37",
+    "currency": "U$"
+  },
+  {
+    "id": 674,
+    "value": "+55 (86) 11488-5215",
+    "monthlyPrice": "5,75",
+    "setupPrice": "1,11",
+    "currency": "U$"
+  },
+  {
+    "id": 675,
+    "value": "+55 (48) 30551-9285",
+    "monthlyPrice": "1,33",
+    "setupPrice": "5,84",
+    "currency": "R$"
+  },
+  {
+    "id": 676,
+    "value": "+55 (50) 88095-8042",
+    "monthlyPrice": "5,59",
+    "setupPrice": "3,75",
+    "currency": "U$"
+  },
+  {
+    "id": 677,
+    "value": "+55 (55) 98379-7306",
+    "monthlyPrice": "5,59",
+    "setupPrice": "1,35",
+    "currency": "R$"
+  },
+  {
+    "id": 678,
+    "value": "+55 (87) 03534-9359",
+    "monthlyPrice": "7,12",
+    "setupPrice": "5,37",
+    "currency": "R$"
+  },
+  {
+    "id": 679,
+    "value": "+55 (47) 20011-7936",
+    "monthlyPrice": "1,25",
+    "setupPrice": "1,97",
+    "currency": "U$"
+  },
+  {
+    "id": 680,
+    "value": "+55 (16) 37805-2689",
+    "monthlyPrice": "1,50",
+    "setupPrice": "7,00",
+    "currency": "U$"
+  },
+  {
+    "id": 681,
+    "value": "+55 (16) 47391-9925",
+    "monthlyPrice": "6,03",
+    "setupPrice": "5,90",
+    "currency": "R$"
+  },
+  {
+    "id": 682,
+    "value": "+55 (28) 98110-5639",
+    "monthlyPrice": "8,85",
+    "setupPrice": "7,47",
+    "currency": "U$"
+  },
+  {
+    "id": 683,
+    "value": "+55 (35) 11012-1894",
+    "monthlyPrice": "9,04",
+    "setupPrice": "8,28",
+    "currency": "R$"
+  },
+  {
+    "id": 684,
+    "value": "+55 (40) 64499-6385",
+    "monthlyPrice": "1,85",
+    "setupPrice": "4,56",
+    "currency": "R$"
+  },
+  {
+    "id": 685,
+    "value": "+55 (50) 54101-3164",
+    "monthlyPrice": "5,91",
+    "setupPrice": "4,22",
+    "currency": "R$"
+  },
+  {
+    "id": 686,
+    "value": "+55 (46) 79750-3616",
+    "monthlyPrice": "4,77",
+    "setupPrice": "1,46",
+    "currency": "U$"
+  },
+  {
+    "id": 687,
+    "value": "+55 (19) 71945-5986",
+    "monthlyPrice": "4,55",
+    "setupPrice": "5,31",
+    "currency": "U$"
+  },
+  {
+    "id": 688,
+    "value": "+55 (83) 92681-3070",
+    "monthlyPrice": "8,01",
+    "setupPrice": "1,63",
+    "currency": "U$"
+  },
+  {
+    "id": 689,
+    "value": "+55 (98) 75588-4097",
+    "monthlyPrice": "3,92",
+    "setupPrice": "6,06",
+    "currency": "U$"
+  },
+  {
+    "id": 690,
+    "value": "+55 (37) 40394-3137",
+    "monthlyPrice": "5,46",
+    "setupPrice": "3,87",
+    "currency": "U$"
+  },
+  {
+    "id": 691,
+    "value": "+55 (16) 25029-5240",
+    "monthlyPrice": "4,74",
+    "setupPrice": "5,53",
+    "currency": "R$"
+  },
+  {
+    "id": 692,
+    "value": "+55 (15) 02837-9949",
+    "monthlyPrice": "7,58",
+    "setupPrice": "6,60",
+    "currency": "R$"
+  },
+  {
+    "id": 693,
+    "value": "+55 (80) 87298-0999",
+    "monthlyPrice": "7,97",
+    "setupPrice": "1,41",
+    "currency": "U$"
+  },
+  {
+    "id": 694,
+    "value": "+55 (19) 90605-8447",
+    "monthlyPrice": "1,93",
+    "setupPrice": "8,92",
+    "currency": "U$"
+  },
+  {
+    "id": 695,
+    "value": "+55 (30) 97644-8592",
+    "monthlyPrice": "4,07",
+    "setupPrice": "3,90",
+    "currency": "R$"
+  },
+  {
+    "id": 696,
+    "value": "+55 (71) 43968-3570",
+    "monthlyPrice": "1,63",
+    "setupPrice": "7,08",
+    "currency": "R$"
+  },
+  {
+    "id": 697,
+    "value": "+55 (97) 61738-8427",
+    "monthlyPrice": "3,65",
+    "setupPrice": "9,63",
+    "currency": "R$"
+  },
+  {
+    "id": 698,
+    "value": "+55 (66) 31464-5573",
+    "monthlyPrice": "8,18",
+    "setupPrice": "6,83",
+    "currency": "R$"
+  },
+  {
+    "id": 699,
+    "value": "+55 (58) 38704-5145",
+    "monthlyPrice": "1,07",
+    "setupPrice": "3,26",
+    "currency": "R$"
+  },
+  {
+    "id": 700,
+    "value": "+55 (27) 48985-5471",
+    "monthlyPrice": "8,12",
+    "setupPrice": "8,59",
+    "currency": "U$"
+  },
+  {
+    "id": 701,
+    "value": "+55 (31) 70670-6000",
+    "monthlyPrice": "8,88",
+    "setupPrice": "8,11",
+    "currency": "R$"
+  },
+  {
+    "id": 702,
+    "value": "+55 (86) 25031-8860",
+    "monthlyPrice": "4,01",
+    "setupPrice": "2,63",
+    "currency": "R$"
+  },
+  {
+    "id": 703,
+    "value": "+55 (07) 11516-1824",
+    "monthlyPrice": "6,15",
+    "setupPrice": "2,06",
+    "currency": "R$"
+  },
+  {
+    "id": 704,
+    "value": "+55 (07) 19269-3851",
+    "monthlyPrice": "7,03",
+    "setupPrice": "6,13",
+    "currency": "R$"
+  },
+  {
+    "id": 705,
+    "value": "+55 (89) 38060-3086",
+    "monthlyPrice": "1,57",
+    "setupPrice": "6,52",
+    "currency": "R$"
+  },
+  {
+    "id": 706,
+    "value": "+55 (07) 86517-9812",
+    "monthlyPrice": "5,02",
+    "setupPrice": "3,23",
+    "currency": "R$"
+  },
+  {
+    "id": 707,
+    "value": "+55 (12) 74280-7170",
+    "monthlyPrice": "9,71",
+    "setupPrice": "9,77",
+    "currency": "U$"
+  },
+  {
+    "id": 708,
+    "value": "+55 (27) 02387-5607",
+    "monthlyPrice": "1,37",
+    "setupPrice": "3,34",
+    "currency": "U$"
+  },
+  {
+    "id": 709,
+    "value": "+55 (85) 37030-6569",
+    "monthlyPrice": "4,89",
+    "setupPrice": "3,28",
+    "currency": "R$"
+  },
+  {
+    "id": 710,
+    "value": "+55 (18) 47289-3637",
+    "monthlyPrice": "7,69",
+    "setupPrice": "9,61",
+    "currency": "U$"
+  },
+  {
+    "id": 711,
+    "value": "+55 (44) 78733-6487",
+    "monthlyPrice": "3,89",
+    "setupPrice": "2,56",
+    "currency": "R$"
+  },
+  {
+    "id": 712,
+    "value": "+55 (66) 01591-4320",
+    "monthlyPrice": "9,68",
+    "setupPrice": "2,69",
+    "currency": "U$"
+  },
+  {
+    "id": 713,
+    "value": "+55 (46) 34608-9482",
+    "monthlyPrice": "3,98",
+    "setupPrice": "9,81",
+    "currency": "R$"
+  },
+  {
+    "id": 714,
+    "value": "+55 (10) 38861-4212",
+    "monthlyPrice": "4,67",
+    "setupPrice": "1,14",
+    "currency": "R$"
+  },
+  {
+    "id": 715,
+    "value": "+55 (01) 27865-8408",
+    "monthlyPrice": "5,35",
+    "setupPrice": "8,38",
+    "currency": "R$"
+  },
+  {
+    "id": 716,
+    "value": "+55 (43) 49795-9819",
+    "monthlyPrice": "3,69",
+    "setupPrice": "6,13",
+    "currency": "U$"
+  },
+  {
+    "id": 717,
+    "value": "+55 (37) 65989-4268",
+    "monthlyPrice": "9,64",
+    "setupPrice": "1,09",
+    "currency": "R$"
+  },
+  {
+    "id": 718,
+    "value": "+55 (97) 77622-0543",
+    "monthlyPrice": "7,29",
+    "setupPrice": "9,14",
+    "currency": "R$"
+  },
+  {
+    "id": 719,
+    "value": "+55 (91) 39601-6990",
+    "monthlyPrice": "9,84",
+    "setupPrice": "6,41",
+    "currency": "R$"
+  },
+  {
+    "id": 720,
+    "value": "+55 (91) 61099-4231",
+    "monthlyPrice": "5,92",
+    "setupPrice": "8,91",
+    "currency": "R$"
+  },
+  {
+    "id": 721,
+    "value": "+55 (35) 15433-4622",
+    "monthlyPrice": "6,06",
+    "setupPrice": "2,33",
+    "currency": "R$"
+  },
+  {
+    "id": 722,
+    "value": "+55 (50) 23308-3755",
+    "monthlyPrice": "3,59",
+    "setupPrice": "3,08",
+    "currency": "U$"
+  },
+  {
+    "id": 723,
+    "value": "+55 (86) 88836-2074",
+    "monthlyPrice": "9,91",
+    "setupPrice": "5,40",
+    "currency": "U$"
+  },
+  {
+    "id": 724,
+    "value": "+55 (81) 06835-0477",
+    "monthlyPrice": "1,27",
+    "setupPrice": "2,84",
+    "currency": "U$"
+  },
+  {
+    "id": 725,
+    "value": "+55 (11) 74391-6619",
+    "monthlyPrice": "9,00",
+    "setupPrice": "4,86",
+    "currency": "R$"
+  },
+  {
+    "id": 726,
+    "value": "+55 (52) 28441-6719",
+    "monthlyPrice": "9,66",
+    "setupPrice": "8,03",
+    "currency": "U$"
+  },
+  {
+    "id": 727,
+    "value": "+55 (24) 33805-2005",
+    "monthlyPrice": "4,13",
+    "setupPrice": "6,19",
+    "currency": "R$"
+  },
+  {
+    "id": 728,
+    "value": "+55 (02) 14186-7224",
+    "monthlyPrice": "1,11",
+    "setupPrice": "4,86",
+    "currency": "U$"
+  },
+  {
+    "id": 729,
+    "value": "+55 (17) 66405-3265",
+    "monthlyPrice": "1,26",
+    "setupPrice": "3,68",
+    "currency": "U$"
+  },
+  {
+    "id": 730,
+    "value": "+55 (19) 23386-6288",
+    "monthlyPrice": "1,85",
+    "setupPrice": "2,64",
+    "currency": "R$"
+  },
+  {
+    "id": 731,
+    "value": "+55 (54) 75964-6225",
+    "monthlyPrice": "5,41",
+    "setupPrice": "1,15",
+    "currency": "R$"
+  },
+  {
+    "id": 732,
+    "value": "+55 (38) 02016-9931",
+    "monthlyPrice": "4,26",
+    "setupPrice": "5,92",
+    "currency": "U$"
+  },
+  {
+    "id": 733,
+    "value": "+55 (58) 40314-4184",
+    "monthlyPrice": "3,91",
+    "setupPrice": "9,51",
+    "currency": "U$"
+  },
+  {
+    "id": 734,
+    "value": "+55 (72) 72274-3934",
+    "monthlyPrice": "4,74",
+    "setupPrice": "9,20",
+    "currency": "U$"
+  },
+  {
+    "id": 735,
+    "value": "+55 (24) 13806-9149",
+    "monthlyPrice": "5,65",
+    "setupPrice": "9,55",
+    "currency": "R$"
+  },
+  {
+    "id": 736,
+    "value": "+55 (36) 29052-5980",
+    "monthlyPrice": "1,19",
+    "setupPrice": "7,51",
+    "currency": "R$"
+  },
+  {
+    "id": 737,
+    "value": "+55 (41) 39170-8393",
+    "monthlyPrice": "4,91",
+    "setupPrice": "6,51",
+    "currency": "R$"
+  },
+  {
+    "id": 738,
+    "value": "+55 (53) 17407-0429",
+    "monthlyPrice": "3,06",
+    "setupPrice": "5,54",
+    "currency": "U$"
+  },
+  {
+    "id": 739,
+    "value": "+55 (95) 08715-0179",
+    "monthlyPrice": "8,37",
+    "setupPrice": "1,43",
+    "currency": "R$"
+  },
+  {
+    "id": 740,
+    "value": "+55 (97) 10683-1590",
+    "monthlyPrice": "4,89",
+    "setupPrice": "8,52",
+    "currency": "U$"
+  },
+  {
+    "id": 741,
+    "value": "+55 (66) 61007-8404",
+    "monthlyPrice": "7,94",
+    "setupPrice": "2,54",
+    "currency": "R$"
+  },
+  {
+    "id": 742,
+    "value": "+55 (03) 42242-4748",
+    "monthlyPrice": "2,18",
+    "setupPrice": "7,42",
+    "currency": "U$"
+  },
+  {
+    "id": 743,
+    "value": "+55 (84) 98149-4076",
+    "monthlyPrice": "7,85",
+    "setupPrice": "2,90",
+    "currency": "U$"
+  },
+  {
+    "id": 744,
+    "value": "+55 (23) 98960-6037",
+    "monthlyPrice": "9,27",
+    "setupPrice": "2,78",
+    "currency": "U$"
+  },
+  {
+    "id": 745,
+    "value": "+55 (65) 81040-2000",
+    "monthlyPrice": "4,34",
+    "setupPrice": "1,78",
+    "currency": "R$"
+  },
+  {
+    "id": 746,
+    "value": "+55 (85) 22102-1044",
+    "monthlyPrice": "1,80",
+    "setupPrice": "3,52",
+    "currency": "U$"
+  },
+  {
+    "id": 747,
+    "value": "+55 (13) 77872-7743",
+    "monthlyPrice": "3,61",
+    "setupPrice": "4,62",
+    "currency": "R$"
+  },
+  {
+    "id": 748,
+    "value": "+55 (78) 38490-8582",
+    "monthlyPrice": "1,28",
+    "setupPrice": "3,69",
+    "currency": "R$"
+  },
+  {
+    "id": 749,
+    "value": "+55 (26) 19342-1058",
+    "monthlyPrice": "7,02",
+    "setupPrice": "6,93",
+    "currency": "U$"
+  },
+  {
+    "id": 750,
+    "value": "+55 (42) 83948-2368",
+    "monthlyPrice": "7,90",
+    "setupPrice": "2,32",
+    "currency": "U$"
+  },
+  {
+    "id": 751,
+    "value": "+55 (85) 37921-6021",
+    "monthlyPrice": "1,11",
+    "setupPrice": "7,95",
+    "currency": "R$"
+  },
+  {
+    "id": 752,
+    "value": "+55 (10) 19413-2341",
+    "monthlyPrice": "2,91",
+    "setupPrice": "9,52",
+    "currency": "R$"
+  },
+  {
+    "id": 753,
+    "value": "+55 (62) 03201-6706",
+    "monthlyPrice": "5,52",
+    "setupPrice": "8,69",
+    "currency": "R$"
+  },
+  {
+    "id": 754,
+    "value": "+55 (79) 47115-8483",
+    "monthlyPrice": "6,11",
+    "setupPrice": "5,84",
+    "currency": "U$"
+  },
+  {
+    "id": 755,
+    "value": "+55 (26) 28821-0898",
+    "monthlyPrice": "7,88",
+    "setupPrice": "4,82",
+    "currency": "R$"
+  },
+  {
+    "id": 756,
+    "value": "+55 (24) 64530-9347",
+    "monthlyPrice": "1,50",
+    "setupPrice": "7,94",
+    "currency": "R$"
+  },
+  {
+    "id": 757,
+    "value": "+55 (67) 96971-3758",
+    "monthlyPrice": "5,74",
+    "setupPrice": "7,63",
+    "currency": "R$"
+  },
+  {
+    "id": 758,
+    "value": "+55 (46) 64383-3177",
+    "monthlyPrice": "6,82",
+    "setupPrice": "3,11",
+    "currency": "R$"
+  },
+  {
+    "id": 759,
+    "value": "+55 (30) 02615-9583",
+    "monthlyPrice": "5,07",
+    "setupPrice": "7,98",
+    "currency": "R$"
+  },
+  {
+    "id": 760,
+    "value": "+55 (86) 26908-0050",
+    "monthlyPrice": "9,39",
+    "setupPrice": "4,58",
+    "currency": "U$"
+  },
+  {
+    "id": 761,
+    "value": "+55 (78) 19034-0554",
+    "monthlyPrice": "8,20",
+    "setupPrice": "7,96",
+    "currency": "R$"
+  },
+  {
+    "id": 762,
+    "value": "+55 (46) 32104-3487",
+    "monthlyPrice": "7,78",
+    "setupPrice": "4,35",
+    "currency": "U$"
+  },
+  {
+    "id": 763,
+    "value": "+55 (66) 78431-6801",
+    "monthlyPrice": "5,63",
+    "setupPrice": "9,18",
+    "currency": "R$"
+  },
+  {
+    "id": 764,
+    "value": "+55 (38) 63057-2394",
+    "monthlyPrice": "3,74",
+    "setupPrice": "6,34",
+    "currency": "R$"
+  },
+  {
+    "id": 765,
+    "value": "+55 (04) 05110-2419",
+    "monthlyPrice": "8,99",
+    "setupPrice": "3,02",
+    "currency": "R$"
+  },
+  {
+    "id": 766,
+    "value": "+55 (36) 98775-3891",
+    "monthlyPrice": "4,21",
+    "setupPrice": "1,67",
+    "currency": "U$"
+  },
+  {
+    "id": 767,
+    "value": "+55 (31) 71428-4489",
+    "monthlyPrice": "1,98",
+    "setupPrice": "6,64",
+    "currency": "R$"
+  },
+  {
+    "id": 768,
+    "value": "+55 (31) 92087-2776",
+    "monthlyPrice": "6,44",
+    "setupPrice": "9,97",
+    "currency": "U$"
+  },
+  {
+    "id": 769,
+    "value": "+55 (85) 67725-6617",
+    "monthlyPrice": "4,14",
+    "setupPrice": "1,59",
+    "currency": "R$"
+  },
+  {
+    "id": 770,
+    "value": "+55 (81) 47270-9154",
+    "monthlyPrice": "6,26",
+    "setupPrice": "7,77",
+    "currency": "R$"
+  },
+  {
+    "id": 771,
+    "value": "+55 (77) 71882-2122",
+    "monthlyPrice": "6,84",
+    "setupPrice": "5,69",
+    "currency": "U$"
+  },
+  {
+    "id": 772,
+    "value": "+55 (57) 37449-7792",
+    "monthlyPrice": "7,05",
+    "setupPrice": "5,67",
+    "currency": "R$"
+  },
+  {
+    "id": 773,
+    "value": "+55 (10) 95778-8995",
+    "monthlyPrice": "8,30",
+    "setupPrice": "3,88",
+    "currency": "R$"
+  },
+  {
+    "id": 774,
+    "value": "+55 (11) 06704-0446",
+    "monthlyPrice": "2,87",
+    "setupPrice": "5,18",
+    "currency": "U$"
+  },
+  {
+    "id": 775,
+    "value": "+55 (22) 03193-1629",
+    "monthlyPrice": "4,51",
+    "setupPrice": "9,04",
+    "currency": "R$"
+  },
+  {
+    "id": 776,
+    "value": "+55 (15) 29822-5654",
+    "monthlyPrice": "9,29",
+    "setupPrice": "6,13",
+    "currency": "U$"
+  },
+  {
+    "id": 777,
+    "value": "+55 (33) 31551-8042",
+    "monthlyPrice": "7,57",
+    "setupPrice": "7,21",
+    "currency": "U$"
+  },
+  {
+    "id": 778,
+    "value": "+55 (65) 12012-5760",
+    "monthlyPrice": "4,51",
+    "setupPrice": "8,85",
+    "currency": "U$"
+  },
+  {
+    "id": 779,
+    "value": "+55 (49) 93231-6026",
+    "monthlyPrice": "6,65",
+    "setupPrice": "1,98",
+    "currency": "U$"
+  },
+  {
+    "id": 780,
+    "value": "+55 (69) 93663-5204",
+    "monthlyPrice": "1,93",
+    "setupPrice": "2,44",
+    "currency": "U$"
+  },
+  {
+    "id": 781,
+    "value": "+55 (55) 28761-0195",
+    "monthlyPrice": "9,19",
+    "setupPrice": "9,02",
+    "currency": "R$"
+  },
+  {
+    "id": 782,
+    "value": "+55 (96) 27362-3559",
+    "monthlyPrice": "2,84",
+    "setupPrice": "3,63",
+    "currency": "U$"
+  },
+  {
+    "id": 783,
+    "value": "+55 (69) 59477-3682",
+    "monthlyPrice": "2,34",
+    "setupPrice": "5,70",
+    "currency": "R$"
+  },
+  {
+    "id": 784,
+    "value": "+55 (33) 98773-4553",
+    "monthlyPrice": "1,49",
+    "setupPrice": "5,84",
+    "currency": "U$"
+  },
+  {
+    "id": 785,
+    "value": "+55 (36) 48137-4784",
+    "monthlyPrice": "8,89",
+    "setupPrice": "9,18",
+    "currency": "R$"
+  },
+  {
+    "id": 786,
+    "value": "+55 (76) 50221-0392",
+    "monthlyPrice": "4,36",
+    "setupPrice": "8,19",
+    "currency": "R$"
+  },
+  {
+    "id": 787,
+    "value": "+55 (60) 04504-8514",
+    "monthlyPrice": "9,98",
+    "setupPrice": "2,38",
+    "currency": "R$"
+  },
+  {
+    "id": 788,
+    "value": "+55 (74) 78950-4480",
+    "monthlyPrice": "3,93",
+    "setupPrice": "9,02",
+    "currency": "U$"
+  },
+  {
+    "id": 789,
+    "value": "+55 (11) 50799-6041",
+    "monthlyPrice": "9,14",
+    "setupPrice": "3,59",
+    "currency": "U$"
+  },
+  {
+    "id": 790,
+    "value": "+55 (88) 61304-2616",
+    "monthlyPrice": "8,10",
+    "setupPrice": "7,10",
+    "currency": "U$"
+  },
+  {
+    "id": 791,
+    "value": "+55 (01) 39951-3907",
+    "monthlyPrice": "7,88",
+    "setupPrice": "3,94",
+    "currency": "R$"
+  },
+  {
+    "id": 792,
+    "value": "+55 (21) 55572-5797",
+    "monthlyPrice": "4,86",
+    "setupPrice": "7,18",
+    "currency": "U$"
+  },
+  {
+    "id": 793,
+    "value": "+55 (51) 59266-4518",
+    "monthlyPrice": "6,71",
+    "setupPrice": "3,49",
+    "currency": "U$"
+  },
+  {
+    "id": 794,
+    "value": "+55 (13) 56338-5401",
+    "monthlyPrice": "9,50",
+    "setupPrice": "8,65",
+    "currency": "R$"
+  },
+  {
+    "id": 795,
+    "value": "+55 (32) 13088-9465",
+    "monthlyPrice": "6,39",
+    "setupPrice": "3,37",
+    "currency": "R$"
+  },
+  {
+    "id": 796,
+    "value": "+55 (84) 73642-6638",
+    "monthlyPrice": "6,75",
+    "setupPrice": "9,61",
+    "currency": "U$"
+  },
+  {
+    "id": 797,
+    "value": "+55 (08) 30073-8444",
+    "monthlyPrice": "8,46",
+    "setupPrice": "9,17",
+    "currency": "U$"
+  },
+  {
+    "id": 798,
+    "value": "+55 (14) 14154-8602",
+    "monthlyPrice": "8,72",
+    "setupPrice": "8,28",
+    "currency": "R$"
+  },
+  {
+    "id": 799,
+    "value": "+55 (46) 49214-7645",
+    "monthlyPrice": "9,84",
+    "setupPrice": "1,32",
+    "currency": "U$"
+  },
+  {
+    "id": 800,
+    "value": "+55 (62) 18110-3704",
+    "monthlyPrice": "6,95",
+    "setupPrice": "3,03",
+    "currency": "U$"
+  }
+]
