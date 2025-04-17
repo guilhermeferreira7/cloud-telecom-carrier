@@ -5,7 +5,6 @@ import { Button, Col, Container, Row } from "react-bootstrap";
 import { AiOutlineCloudSync, AiOutlinePlus } from "react-icons/ai";
 import { useDispatch, useSelector } from "react-redux";
 
-import { Pagination } from "@/lib/components/Pagination/Pagination";
 import { Spinner } from "@/lib/components/Spinner/Spinner";
 import { DIDS_DEFAULT_LIMIT, DIDS_POLLING_INTERVAL } from "@/lib/constants";
 import { DidsAvailableTable, fetchDIDs } from "@/lib/features/dids";
@@ -75,15 +74,10 @@ export default function IndexPage() {
         {isLoading || numbers === null ? (
           <p>Carregando...</p>
         ) : (
-          <>
-            <DidsAvailableTable numbers={numbers} />
-
-            {!lastPage ? (
-              <p>Carregando...</p>
-            ) : (
-              <Pagination page={page} setPage={setPage} lastPage={lastPage} />
-            )}
-          </>
+          <DidsAvailableTable
+            numbers={numbers}
+            paginationProps={{ page, lastPage: lastPage!, setPage }}
+          />
         )}
       </Container>
     </>
