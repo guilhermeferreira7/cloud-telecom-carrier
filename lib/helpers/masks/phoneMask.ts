@@ -1,5 +1,7 @@
 export const phoneMask = (value: string) => {
-  if (value.length > 14)
+  const numbers = value.replace(/\D/g, "");
+
+  if (numbers.length > 10)
     return value
       .replace(/\D+/g, "")
       .replace(/(\d{2})(\d)/, "($1) $2")
