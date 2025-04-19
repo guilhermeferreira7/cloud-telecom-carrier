@@ -1,30 +1,20 @@
 import { useState } from "react";
 import { Button } from "react-bootstrap";
 import { AiOutlineDelete, AiOutlineEdit } from "react-icons/ai";
-import { useDispatch, useSelector } from "react-redux";
 
-import { DIDS_DEFAULT_LIMIT } from "@/lib/constants";
-import { usePageSearch } from "@/lib/hooks/usePageSearch";
-import { AppDispatch, RootState } from "@/lib/store";
+import { DID } from "@/lib/features/dids";
 
-import {
-  deleteDID,
-  DID,
-  DIDDetailsModal,
-  fetchDIDs,
-} from "@/lib/features/dids";
+import { DIDDeleteModal } from "./_DIDDeleteModal";
+import { DIDDetailsModal } from "./_DIDDetailsModal";
 
 type DIDRowProps = {
   did: DID;
 };
 
 export function DIDRow({ did }: DIDRowProps) {
-  const dispatch = useDispatch<AppDispatch>();
-  const { deletingId } = useSelector((state: RootState) => state.dids);
+  const [isDetailsOpen, setIsDetailsOpen] = useState(false);
 
-  const { page, limit } = usePageSearch(DIDS_DEFAULT_LIMIT);
-
-  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isDeleting, setIsDeleting] = useState(false);
 
   return (
     <>
@@ -33,7 +23,7 @@ export function DIDRow({ did }: DIDRowProps) {
 
         <td
           onClick={() => {
-            setIsModalOpen(true);
+            setIsDetailsOpen(true);
           }}
           className="text-primary cursor-pointer text-nowrap"
         >
@@ -49,33 +39,29 @@ export function DIDRow({ did }: DIDRowProps) {
         </td>
 
         <td className="text-center">
-          {deletingId === did.id ? (
-            <div className="spinner-border spinner-border-sm text-danger" />
-          ) : (
-            <>
-              <Button variant="link" className="hover-bg-primary">
-                <AiOutlineEdit />
-              </Button>
+          <Button variant="link" className="hover-bg-primary">
+            <AiOutlineEdit />
+          </Button>
 
-              <Button
-                variant="link"
-                className="text-danger hover-bg-danger"
-                onClick={() =>
-                  dispatch(deleteDID(did.id)).then(() => {
-                    dispatch(fetchDIDs({ page, limit }));
-                  })
-                }
-              >
-                <AiOutlineDelete />
-              </Button>
-            </>
-          )}
+          <Button
+            variant="link"
+            className="text-danger hover-bg-danger"
+            onClick={() => setIsDeleting(true)}
+          >
+            <AiOutlineDelete />
+          </Button>
         </td>
       </tr>
 
       <DIDDetailsModal
-        isModalOpen={isModalOpen}
-        setIsModalOpen={setIsModalOpen}
+        isModalOpen={isDetailsOpen}
+        setIsModalOpen={setIsDetailsOpen}
+        did={did}
+      />
+
+      <DIDDeleteModal
+        isModalOpen={isDeleting}
+        setIsModalOpen={setIsDeleting}
         did={did}
       />
     </>

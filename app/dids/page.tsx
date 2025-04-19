@@ -1,5 +1,6 @@
 "use client";
 
+import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import { Button, Col, Container, Row } from "react-bootstrap";
 import { AiOutlineCloudSync, AiOutlinePlus } from "react-icons/ai";
@@ -12,6 +13,8 @@ import { usePageSearch } from "@/lib/hooks/usePageSearch";
 import { AppDispatch, RootState } from "@/lib/store";
 
 export default function _page() {
+  const router = useRouter();
+
   const dispatch = useDispatch<AppDispatch>();
 
   const { page, limit, setPage } = usePageSearch(DIDS_DEFAULT_LIMIT);
@@ -21,6 +24,7 @@ export default function _page() {
     loading: isPolling,
     error,
     lastUpdated,
+    deletingId,
   } = useSelector((state: RootState) => state.dids);
 
   const [isLoading, setIsLoading] = useState(true);
@@ -37,7 +41,7 @@ export default function _page() {
     const interval = setInterval(fetchData, DIDS_POLLING_INTERVAL);
 
     return () => clearInterval(interval);
-  }, [dispatch, page, limit]);
+  }, [dispatch, page, limit, deletingId]);
 
   if (error) {
     return <p className="fs-4 p-3">{error}</p>;
@@ -62,7 +66,7 @@ export default function _page() {
           </Col>
 
           <Col className="text-end">
-            <Button>
+            <Button onClick={() => router.push("/dids/new")}>
               <Container className="d-flex align-items-center gap-2">
                 <AiOutlinePlus />
                 Novo número

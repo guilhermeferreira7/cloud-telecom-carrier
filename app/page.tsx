@@ -34,7 +34,7 @@ export default function IndexPage() {
               <Button
                 variant="primary"
                 className="w-100"
-                onClick={() => router.push("/home")}
+                onClick={() => router.push("/dids")}
               >
                 Entrar
               </Button>

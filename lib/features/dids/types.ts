@@ -13,6 +13,7 @@ export type DIDState = {
   };
   loading: boolean;
   deletingId: number | null;
+  creating: boolean;
   lastUpdated: string;
   error: string | null;
 };

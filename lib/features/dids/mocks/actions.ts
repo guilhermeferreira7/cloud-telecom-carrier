@@ -1,3 +1,4 @@
+import { DID } from "../types";
 import dataMock from "./mock-data.json";
 
 export async function fetchMockedDIDs(page: number, limit: number) {
@@ -6,10 +7,11 @@ export async function fetchMockedDIDs(page: number, limit: number) {
   const storageDids = localStorage.getItem("dids");
 
   if (storageDids) {
-    const paginatedData = JSON.parse(storageDids).slice(
-      (page - 1) * limit,
-      page * limit
-    );
+    const orderedDids = JSON.parse(storageDids).sort((a: DID, b: DID) => {
+      return b.id - a.id;
+    });
+
+    const paginatedData = orderedDids.slice((page - 1) * limit, page * limit);
 
     return {
       data: paginatedData,
@@ -49,6 +51,30 @@ export async function deleteMockedDID(id: number) {
   );
 
   return id;
+}
+
+export async function createMockedDID(data: Omit<DID, "id">) {
+  await fakeDelay(1500);
+
+  const dids = await fetchMockedDIDs(1, 1);
+  if (dids.data.length > 0) {
+    const lastId = dids.data[0].id;
+    const DID = { ...data, id: lastId + 1 };
+
+    const allDids = localStorage.getItem("dids");
+
+    const parsedDids = allDids ? JSON.parse(allDids) : [];
+
+    localStorage.setItem("dids", JSON.stringify([...parsedDids, DID]));
+
+    return DID;
+  }
+
+  const DID = { ...data, id: 1 };
+
+  localStorage.setItem("dids", JSON.stringify([DID]));
+
+  return DID;
 }
 
 async function fakeDelay(amount: number) {
