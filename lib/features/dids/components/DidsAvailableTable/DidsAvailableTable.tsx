@@ -1,11 +1,12 @@
 import { Table } from "react-bootstrap";
 
-import { DID } from "@/lib/features/dids";
-
-import { DidRow } from "./_DidRow";
 import { Pagination } from "@/lib/components/Pagination/Pagination";
 
-type DidsAvailableTableProps = {
+import { DID } from "@/lib/features/dids/types";
+
+import { DIDRow } from "./_DIDRow";
+
+type DIDsAvailableTableProps = {
   numbers: DID[];
   paginationProps: {
     page: number;
@@ -14,10 +15,10 @@ type DidsAvailableTableProps = {
   };
 };
 
-export function DidsAvailableTable({
+export function DIDsAvailableTable({
   numbers,
   paginationProps,
-}: DidsAvailableTableProps) {
+}: DIDsAvailableTableProps) {
   const { lastPage, page, setPage } = paginationProps;
 
   if (numbers.length === 0) {
@@ -38,7 +39,7 @@ export function DidsAvailableTable({
         </thead>
         <tbody>
           {numbers.map((did) => (
-            <DidRow did={did} key={did.id} />
+            <DIDRow did={did} key={did.id} />
           ))}
         </tbody>
       </Table>

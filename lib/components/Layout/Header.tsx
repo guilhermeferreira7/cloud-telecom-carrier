@@ -1,7 +1,12 @@
+"use client";
+
+import { useRouter } from "next/navigation";
 import { Button, Col, Container, Row } from "react-bootstrap";
 import { AiOutlineLogout } from "react-icons/ai";
 
 export function Header() {
+  const router = useRouter();
+
   return (
     <Container as="header" fluid className="p-3 bg-primary">
       <Row>
@@ -12,7 +17,11 @@ export function Header() {
             <span className="text-secondary">Usuário:</span>
             <span className="text-white">guilhermeribas</span>
 
-            <Button variant="link" className="text-danger text-nowrap fw-bold">
+            <Button
+              variant="link"
+              className="text-danger text-nowrap fw-bold"
+              onClick={() => router.push("/")}
+            >
               <span className="me-1">Sair</span>
               <AiOutlineLogout />
             </Button>
