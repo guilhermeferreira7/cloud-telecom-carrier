@@ -4,6 +4,8 @@ import {
   createMockedDID,
   deleteMockedDID,
   fetchMockedDIDs,
+  getMockedDID,
+  updateMockedDID,
 } from "./mocks/actions";
 import { DID } from "./types";
 
@@ -24,3 +26,14 @@ export const createDID = createAsyncThunk(
     return createMockedDID(data);
   }
 );
+
+export const updateDID = createAsyncThunk(
+  "dids/edit",
+  async ({ id, data }: { id: number; data: Omit<DID, "id" | "value"> }) => {
+    return updateMockedDID(id, data);
+  }
+);
+
+export const getDID = createAsyncThunk("dids/get", async (id: number) => {
+  return getMockedDID(id);
+});

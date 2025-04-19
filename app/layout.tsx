@@ -15,10 +15,6 @@ export default function RootLayout({ children }: PropsWithChildren) {
   return (
     <StoreProvider>
       <html lang="en">
-        <head>
-          <link rel="icon" href="./logo.svg" />
-        </head>
-
         <body>{children}</body>
       </html>
     </StoreProvider>

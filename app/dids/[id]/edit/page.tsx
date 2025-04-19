@@ -1,7 +1,7 @@
 "use client";
 
-import { useRouter } from "next/navigation";
-import { FormEvent, useState } from "react";
+import { useParams, useRouter } from "next/navigation";
+import { FormEvent, useEffect, useState } from "react";
 import {
   Breadcrumb,
   Button,
@@ -10,21 +10,17 @@ import {
   Container,
   Form,
   Row,
+  Spinner,
 } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
 
-import { Spinner } from "@/lib/components/Spinner/Spinner";
-import { createDID, DID } from "@/lib/features/dids";
+import { DID, getDID, updateDID } from "@/lib/features/dids";
+import { currencyMask } from "@/lib/helpers/masks";
 import { AppDispatch, RootState } from "@/lib/store";
-import { currencyMask, phoneMask } from "@/lib/helpers/masks";
-
-const countryCodes = ["+55", "+1", "+44", "+61", "+7"];
 
 const currencies = ["R$", "US$", "€"];
 
 type FormData = {
-  countryCode: string;
-  number: string;
   setupPrice: string;
   monthlyPrice: string;
   currency: string;
@@ -33,32 +29,57 @@ type FormData = {
 export default function _page() {
   const router = useRouter();
 
+  const [isLoading, setIsLoading] = useState(true);
+
+  const [did, setDid] = useState<DID>();
+
+  const { id } = useParams();
+
   const dispatch = useDispatch<AppDispatch>();
 
-  const { creating } = useSelector((state: RootState) => state.dids);
+  const { updating } = useSelector((state: RootState) => state.dids);
 
   const [formData, setFormData] = useState<FormData>({
-    countryCode: countryCodes[0],
-    number: "",
     setupPrice: "",
     monthlyPrice: "",
     currency: currencies[0],
   });
 
-  function handleCreateDID(e: FormEvent<HTMLFormElement>) {
+  useEffect(() => {
+    setIsLoading(true);
+
+    dispatch(getDID(Number(id)))
+      .then((res) => {
+        setDid(res.payload);
+        setFormData(res.payload);
+      })
+      .finally(() => {
+        setIsLoading(false);
+      });
+  }, []);
+
+  function handleEditDID(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
 
-    const did: Omit<DID, "id"> = {
-      currency: formData.currency,
-      monthlyPrice: formData.monthlyPrice,
+    const did: FormData = {
       setupPrice: formData.setupPrice,
-      value: `${formData.countryCode} ${formData.number}`,
+      monthlyPrice: formData.monthlyPrice,
+      currency: formData.currency,
     };
 
-    dispatch(createDID(did)).then(() => {
+    dispatch(updateDID({ id: Number(id), data: did })).then(() => {
       router.push("/dids");
     });
   }
+
+  if (isLoading)
+    return (
+      <div className="p-3 fs-4 d-flex align-items-center gap-2">
+        Carregando <Spinner />
+      </div>
+    );
+
+  if (!did) return <p className="p-3 fs-4">DID não encontrado</p>;
 
   return (
     <>
@@ -66,53 +87,18 @@ export default function _page() {
         <Breadcrumb>
           <Breadcrumb.Item href="/dids">Números disponíveis</Breadcrumb.Item>
 
-          <Breadcrumb.Item active>Novo número</Breadcrumb.Item>
+          <Breadcrumb.Item active>Editar número</Breadcrumb.Item>
         </Breadcrumb>
 
         <Row className="w-100 justify-content-center">
           <Col lg={6}>
             <Card className="p-3">
-              <Form onSubmit={handleCreateDID}>
-                <div className="d-flex gap-3">
-                  <Form.Group className="mb-3 w-25">
-                    <Form.Label>
-                      Número <span className="text-danger">*</span>
-                    </Form.Label>
+              <Form onSubmit={handleEditDID}>
+                <Form.Group className="mb-3">
+                  <Form.Label>Número</Form.Label>
 
-                    <Form.Select
-                      placeholder="+55"
-                      value={formData.countryCode}
-                      onChange={(e) =>
-                        setFormData((val) => ({
-                          ...val,
-                          countryCode: e.target.value,
-                        }))
-                      }
-                    >
-                      {countryCodes.map((countryCode) => (
-                        <option key={countryCode} value={countryCode}>
-                          {countryCode}
-                        </option>
-                      ))}
-                    </Form.Select>
-                  </Form.Group>
-
-                  <Form.Group className="mb-3 w-75">
-                    <Form.Label className="text-white">.</Form.Label>
-
-                    <Form.Control
-                      type="text"
-                      placeholder="(11) 9 9999-9999"
-                      value={formData.number}
-                      onChange={(e) => {
-                        setFormData((val) => ({
-                          ...val,
-                          number: phoneMask(e.target.value),
-                        }));
-                      }}
-                    />
-                  </Form.Group>
-                </div>
+                  <Form.Control type="text" disabled value={did.value} />
+                </Form.Group>
 
                 <Form.Group className="mb-3">
                   <Form.Label>
@@ -176,9 +162,9 @@ export default function _page() {
                   variant="primary"
                   className="w-100"
                   type="submit"
-                  disabled={creating}
+                  disabled={updating}
                 >
-                  {creating ? <Spinner size="sm" /> : "Criar"}
+                  {updating ? <Spinner size="sm" /> : "Atualizar"}
                 </Button>
               </Form>
             </Card>

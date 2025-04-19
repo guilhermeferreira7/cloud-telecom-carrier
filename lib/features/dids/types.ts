@@ -14,6 +14,7 @@ export type DIDState = {
   loading: boolean;
   deletingId: number | null;
   creating: boolean;
+  updating: boolean;
   lastUpdated: string;
   error: string | null;
 };

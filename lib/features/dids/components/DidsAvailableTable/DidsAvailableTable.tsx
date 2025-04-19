@@ -32,8 +32,8 @@ export function DIDsAvailableTable({
           <tr>
             <th>#</th>
             <th>Número</th>
-            <th className="text-center">Custo mensal</th>
-            <th className="text-center">Custo de compra</th>
+            <th className="text-center">Preço de compra</th>
+            <th className="text-center">Preço mensal</th>
             <th className="text-center">Ações</th>
           </tr>
         </thead>

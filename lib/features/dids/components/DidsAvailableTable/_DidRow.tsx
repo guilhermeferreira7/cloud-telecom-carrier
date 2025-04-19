@@ -1,3 +1,4 @@
+import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { Button } from "react-bootstrap";
 import { AiOutlineDelete, AiOutlineEdit } from "react-icons/ai";
@@ -12,6 +13,8 @@ type DIDRowProps = {
 };
 
 export function DIDRow({ did }: DIDRowProps) {
+  const router = useRouter();
+
   const [isDetailsOpen, setIsDetailsOpen] = useState(false);
 
   const [isDeleting, setIsDeleting] = useState(false);
@@ -30,16 +33,20 @@ export function DIDRow({ did }: DIDRowProps) {
           {did.value}
         </td>
 
-        <td className="text-center">
-          {did.currency} {did.monthlyPrice}
-        </td>
-
         <td className="text-center hover-bg">
           {did.currency} {did.setupPrice}
         </td>
 
         <td className="text-center">
-          <Button variant="link" className="hover-bg-primary">
+          {did.currency} {did.monthlyPrice}
+        </td>
+
+        <td className="text-center">
+          <Button
+            variant="link"
+            className="hover-bg-primary"
+            onClick={() => router.push(`/dids/${did.id}/edit`)}
+          >
             <AiOutlineEdit />
           </Button>
 
